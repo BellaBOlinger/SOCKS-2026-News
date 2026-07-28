@@ -1,0 +1,930 @@
+source,slug,institution,news_partnership,story_count,corpus_file
+The NewsHouse,the-newshouse,Syracuse University,0,381,publication_corpora/the-newshouse.txt
+The Observer,the-observer,University of Illinois Springfield,0,10,publication_corpora/the-observer.txt
+The Observer-NDSM,the-observer,"University of Notre Dame, Saint Mary's College, Holy Cross College",0,46,publication_corpora/the-observer.txt
+The Observer-FU,the-observer,Fordham University,0,98,publication_corpora/the-observer.txt
+The Observer-CWU,the-observer,Central Washington University,0,10,publication_corpora/the-observer.txt
+The Observer-CWRU,the-observer,Case Western Reserve University,0,10,publication_corpora/the-observer.txt
+The Daily Iowan,the-daily-iowan,University of Iowa,1,141,publication_corpora/the-daily-iowan.txt
+The Seattle Medium,the-seattle-medium,DROP,,130,publication_corpora/the-seattle-medium.txt
+Voice of OC,voice-of-oc,DROP,,124,publication_corpora/voice-of-oc.txt
+Indiana Daily Student,indiana-daily-student,Indiana University-Bloomington,0,116,publication_corpora/indiana-daily-student.txt
+Caplin News,caplin-news,Florida International University,1,113,publication_corpora/caplin-news.txt
+Campus Times,campus-times,University of Rochester,0,10,publication_corpora/campus-times.txt
+Campus Times-LV,campus-times,University of La Verne,0,100,publication_corpora/campus-times.txt
+The Echo,the-echo,California Lutheran University,0,10,publication_corpora/the-echo.txt
+The Echo News,the-echo,Taylor University,0,40,publication_corpora/the-echo.txt
+The OC Echo,the-echo,Olivet College,0,20,publication_corpora/the-echo.txt
+The Echo-PPSC,the-echo,Pikes Peak State College,0,10,publication_corpora/the-echo.txt
+The Echo-SNU,the-echo,Southern Nazarene University,0,20,publication_corpora/the-echo.txt
+The Echo-AU,the-echo,Augsburg University,0,10,publication_corpora/the-echo.txt
+Daily Trojan,daily-trojan,University of Southern California,0,109,publication_corpora/daily-trojan.txt
+The Daily Pennsylvanian,the-daily-pennsylvanian,University of Pennsylvania,0,107,publication_corpora/the-daily-pennsylvanian.txt
+The State News,the-state-news,Michigan State University,0,105,publication_corpora/the-state-news.txt
+Amplify Utah - The Story Room,amplify-utah-the-story-room,Multi,1,104,publication_corpora/amplify-utah-the-story-room.txt
+The Cornell Daily Sun,the-cornell-daily-sun,Cornell University,0,104,publication_corpora/the-cornell-daily-sun.txt
+The Dartmouth,the-dartmouth,Dartmouth College,0,101,publication_corpora/the-dartmouth.txt
+The Herald,the-herald-2,Hobart William Smith Colleges,0,100,publication_corpora/the-herald-2.txt
+The Temple News,the-temple-news,Temple University,0,100,publication_corpora/the-temple-news.txt
+Cronkite News,cronkite-news,Arizona State University,1,92,publication_corpora/cronkite-news.txt
+The Daily Gamecock,the-daily-gamecock,University of South Carolina,0,82,publication_corpora/the-daily-gamecock.txt
+The Collegian,the-collegian,Tarrant County College District,1,10,publication_corpora/the-collegian.txt
+The Collegian-AU,the-collegian,Ashland University,0,10,publication_corpora/the-collegian.txt
+The Collegian-GCC,the-collegian,Greensboro College,0,10,publication_corpora/the-collegian.txt
+The Collegian-BJ,the-collegian,Bob Jones University,0,10,publication_corpora/the-collegian.txt
+The Collegian-TU,the-collegian,University of Tulsa,0,10,publication_corpora/the-collegian.txt
+The Collegian-Delta,the-collegian,San Joaquin Delta College,0,10,publication_corpora/the-collegian.txt
+The Collegian-SDSU,the-collegian,South Dakota State University,0,10,publication_corpora/the-collegian.txt
+The Collegian-FS,the-collegian,California State University-Fresno,0,10,publication_corpora/the-collegian.txt
+The Johns Hopkins News-Letter,the-johns-hopkins-news-letter,Johns Hopkins University,0,79,publication_corpora/the-johns-hopkins-news-letter.txt
+Capitol News Illinois,capitol-news-illinois,DROP,,78,publication_corpora/capitol-news-illinois.txt
+Wisconsin Watch,wisconsin-watch,University of Wisconsin-Madison,1,77,publication_corpora/wisconsin-watch.txt
+Purple Media Network,purple-media-network,Northwestern State University of Louisiana,0,76,publication_corpora/purple-media-network.txt
+The Independent Florida Alligator,the-independent-florida-alligator,University of Florida,0,74,publication_corpora/the-independent-florida-alligator.txt
+Milwaukee Neighborhood News Service,milwaukee-neighborhood-news-service,Marquette University,0,73,publication_corpora/milwaukee-neighborhood-news-service.txt
+Dordt Digital Collections,dordt-digital-collections,Dordt University,0,70,publication_corpora/dordt-digital-collections.txt
+The Catalyst,the-catalyst,Colorado College,0,50,publication_corpora/the-catalyst.txt
+The Catalyst-NCFC,the-catalyst,New College of Florida,0,6,publication_corpora/the-catalyst.txt
+The Catalyst-OW,the-catalyst,SUNY College at Old Westbury,0,10,publication_corpora/the-catalyst.txt
+The Globe,the-globe,Salt Lake Community College,0,64,publication_corpora/the-globe.txt
+www.thedaonline.com - RSS Results of type article,www-thedaonline-com-rss-results-of-type-article,West Virginia University,1,64,publication_corpora/www-thedaonline-com-rss-results-of-type-article.txt
+Grady Newsource,grady-newsource,University of Georgia,1,61,publication_corpora/grady-newsource.txt
+Tampa Free Press,tampa-free-press,DROP,,60,publication_corpora/tampa-free-press.txt
+The Daily Cardinal,the-daily-cardinal,University of Wisconsin-Madison,0,59,publication_corpora/the-daily-cardinal.txt
+Carolina News and Reporter,carolina-news-and-reporter,University of South Carolina,0,58,publication_corpora/carolina-news-and-reporter.txt
+LSU Manship School Statehouse Bureau,lsu-manship-school-statehouse-bureau,Louisiana State University,1,58,publication_corpora/lsu-manship-school-statehouse-bureau.txt
+The Eudora Times,the-eudora-times,University of Kansas,1,58,publication_corpora/the-eudora-times.txt
+Howard University News Service,howard-university-news-service,Howard University,1,54,publication_corpora/howard-university-news-service.txt
+The Macon Newsroom,the-macon-newsroom,Mercer University,1,54,publication_corpora/the-macon-newsroom.txt
+The Houstonian,the-houstonian,Sam Houston State University,1,53,publication_corpora/the-houstonian.txt
+The Northerner,the-northerner,Northern Kentucky University,0,52,publication_corpora/the-northerner.txt
+Arizona Sonoran News,arizona-sonoran-news,University of Arizona,1,50,publication_corpora/arizona-sonoran-news.txt
+The Beacon,the-beacon,Wilkes University,0,10,publication_corpora/the-beacon.txt
+The Beacon-MC,the-beacon,Merrimack College,0,30,publication_corpora/the-beacon.txt
+The Beacon-WP,the-beacon,William Paterson University of New Jersey,0,10,publication_corpora/the-beacon.txt
+The Globe GGC,the-globe-ggc,Georgia Gwinnett College,0,50,publication_corpora/the-globe-ggc.txt
+The Outlook,the-outlook,Monmouth University,0,50,publication_corpora/the-outlook.txt
+The Quad: Student News Service of WCU,the-quad-student-news-service-of-wcu,West Chester University of Pennsylvania,0,50,publication_corpora/the-quad-student-news-service-of-wcu.txt
+The Rensselaer Polytechnic,the-rensselaer-polytechnic,Rensselaer Polytechnic Institute,0,50,publication_corpora/the-rensselaer-polytechnic.txt
+The Review,the-review,University of Delaware,0,50,publication_corpora/the-review.txt
+CNS Maryland,cns-maryland,University of Maryland-College Park,1,48,publication_corpora/cns-maryland.txt
+Easton Courier,easton-courier,Sacred Heart University,1,48,publication_corpora/easton-courier.txt
+Great Lakes Echo,great-lakes-echo,Michigan State University,1,48,publication_corpora/great-lakes-echo.txt
+The Clarion,the-clarion,Bethel University,0,10,publication_corpora/the-clarion.txt
+The Clarion-MATC,the-clarion,Madison Area Technical College,0,20,publication_corpora/the-clarion.txt
+The Clarion-SCC,the-clarion,Sinclair Community College,0,18,publication_corpora/the-clarion.txt
+The Southern Accent,the-southern-accent,Southern Adventist University,1,47,publication_corpora/the-southern-accent.txt
+South Jersey Climate News,south-jersey-climate-news,"Rowan University, Atlantic Cape Community College",1,46,publication_corpora/south-jersey-climate-news.txt
+www.dailygazette.com - RSS Results in spotlightnews of type article,www-dailygazette-com-rss-results-in-spotlightnews-of-type-article,DROP,,46,publication_corpora/www-dailygazette-com-rss-results-in-spotlightnews-of-type-article.txt
+9th Street Journal,9th-street-journal,Duke University,1,45,publication_corpora/9th-street-journal.txt
+University Times,university-times,University of Pittsburgh,0,45,publication_corpora/university-times.txt
+Politics & Policy Archives - Cronkite News,politics-policy-archives-cronkite-news,Arizona State University,1,44,publication_corpora/politics-policy-archives-cronkite-news.txt
+www.jackcentral.org - RSS Results of type article,www-jackcentral-org-rss-results-of-type-article,Northern Arizona University,0,44,publication_corpora/www-jackcentral-org-rss-results-of-type-article.txt
+The Cougar,the-cougar,University of Houston,0,43,publication_corpora/the-cougar.txt
+The Legislative Gazette,the-legislative-gazette,State University of New York at New Paltz,1,43,publication_corpora/the-legislative-gazette.txt
+Columbia News Service,columbia-news-service,Columbia University in the City of New York,1,42,publication_corpora/columbia-news-service.txt
+Legislative Reporting Project,legislative-reporting-project,University of Minnesota-Twin Cities,1,40,publication_corpora/legislative-reporting-project.txt
+The Chimes,the-chimes,Biola University,0,30,publication_corpora/the-chimes.txt
+The Chimes-CU,the-chimes,Capital University,0,10,publication_corpora/the-chimes.txt
+The Flyer,the-flyer,Lewis University,0,20,publication_corpora/the-flyer.txt
+The Flyer-SU,the-flyer,Salisbury University,0,20,publication_corpora/the-flyer.txt
+The Oracle,the-oracle,Hamline University,0,10,publication_corpora/the-oracle.txt
+The Oracle-TnT,the-oracle,Tennessee Technological University,0,10,publication_corpora/the-oracle.txt
+The Oracle-USF,the-oracle,University of South Florida,0,10,publication_corpora/the-oracle.txt
+The Oracle-OR,the-oracle,Oral Roberts University,0,10,publication_corpora/the-oracle.txt
+The Sentinel,the-sentinel,Kennesaw State University,0,10,publication_corpora/the-sentinel.txt
+The Sentinel-RU,the-sentinel,Rockhurst University,0,10,publication_corpora/the-sentinel.txt
+The Sentinel-NIC,the-sentinel,North Idaho College,0,10,publication_corpora/the-sentinel.txt
+The Sentinel-John Jay,the-sentinel,CUNY John Jay College of Criminal Justice,0,10,publication_corpora/the-sentinel.txt
+The Spectator,the-spectator,McPherson College,0,10,publication_corpora/the-spectator.txt
+The Spectator-CUc,the-spectator,Concordia University-Chicago,0,10,publication_corpora/the-spectator.txt
+The Spectator-SU,the-spectator,Seattle University,0,10,publication_corpora/the-spectator.txt
+The Spectator-UWec,the-spectator,University of Wisconsin-Eau Claire,0,10,publication_corpora/the-spectator.txt
+The Stanford Daily,the-stanford-daily,Stanford University,0,40,publication_corpora/the-stanford-daily.txt
+www.westernherald.com - RSS Results of type article,www-westernherald-com-rss-results-of-type-article,Western Michigan University,0,40,publication_corpora/www-westernherald-com-rss-results-of-type-article.txt
+www.cowleycollegemedia.com - RSS Results of type article,www-cowleycollegemedia-com-rss-results-of-type-article,Cowley County Community College,0,39,publication_corpora/www-cowleycollegemedia-com-rss-results-of-type-article.txt
+Noticiero Movil,noticiero-movil,University of Nevada-Reno,1,38,publication_corpora/noticiero-movil.txt
+The Scope,the-scope,Northeastern University,1,37,publication_corpora/the-scope.txt
+Gaylord News,gaylord-news,University of Oklahoma,1,36,publication_corpora/gaylord-news.txt
+The Brown Daily Herald: Top Stories,the-brown-daily-herald-top-stories,Brown University,0,35,publication_corpora/the-brown-daily-herald-top-stories.txt
+The Hitchcock Project for Visualizing Science,the-hitchcock-project-for-visualizing-science,University of Nevada-Reno,1,35,publication_corpora/the-hitchcock-project-for-visualizing-science.txt
+The Long Island Advocate,the-long-island-advocate,Hofstra University,1,35,publication_corpora/the-long-island-advocate.txt
+The Paw Print,the-paw-print,Lehigh Carbon Community College,0,20,publication_corpora/the-paw-print.txt
+The Paw Print-ASU,the-paw-print,Adams State University,0,15,publication_corpora/the-paw-print.txt
+Blot,blot,University of Idaho,0,34,publication_corpora/blot.txt
+Institute for Public Service Reporting – Memphis,institute-for-public-service-reporting-memphis,University of Memphis,1,33,publication_corpora/institute-for-public-service-reporting-memphis.txt
+Medill Illinois News Bureau,medill-illinois-news-bureau,Northwestern University,1,33,publication_corpora/medill-illinois-news-bureau.txt
+The Cedar Falls News Hub,the-cedar-falls-news-hub,University of Northern Iowa,1,32,publication_corpora/the-cedar-falls-news-hub.txt
+Collegiate News Service,collegiate-news-service,Chapman University,1,31,publication_corpora/collegiate-news-service.txt
+Fresh Take Florida,fresh-take-florida,University of Florida,1,30,publication_corpora/fresh-take-florida.txt
+IPM Newsroom,ipm-newsroom,University of Illinois Urbana-Champaign,0,30,publication_corpora/ipm-newsroom.txt
+New Mexico News Port,new-mexico-news-port,University of New Mexico-Main Campus,1,30,publication_corpora/new-mexico-news-port.txt
+News Feed,news-feed,University of Florida,1,30,publication_corpora/news-feed.txt
+Pipe Dream,pipe-dream,Binghamton University,0,30,publication_corpora/pipe-dream.txt
+The Baylor Lariat,the-baylor-lariat,Baylor University,0,30,publication_corpora/the-baylor-lariat.txt
+The Buccaneer,the-buccaneer,Peninsula College,0,10,publication_corpora/the-buccaneer.txt
+The Buccaneer-BU,the-buccaneer,Barry University,0,20,publication_corpora/the-buccaneer.txt
+The Charger Bulletin,the-charger-bulletin,University of New Haven,0,30,publication_corpora/the-charger-bulletin.txt
+The Forum,the-forum,Westminster University,0,10,publication_corpora/the-forum.txt
+The Forum-UAlr,the-forum,University of Arkansas at Little Rock,0,10,publication_corpora/the-forum.txt
+The Forum-PVCC,the-forum,Piedmont Virginia Community College,0,10,publication_corpora/the-forum.txt
+The Gettysburgian.,the-gettysburgian,Gettysburg College,0,30,publication_corpora/the-gettysburgian.txt
+The Horizon,the-horizon,Indiana University Southeast,0,10,publication_corpora/the-horizon.txt
+The Horizon-WCC,the-horizon,Whatcom Community College,0,10,publication_corpora/the-horizon.txt
+The Horizon-WC,the-horizon,Westmont College,0,10,publication_corpora/the-horizon.txt
+The McDaniel Free Press,the-mcdaniel-free-press,McDaniel College,0,30,publication_corpora/the-mcdaniel-free-press.txt
+"The Reporting Project – Covering Licking County, Ohio",the-reporting-project-covering-licking-county-ohio,Denison University,1,30,publication_corpora/the-reporting-project-covering-licking-county-ohio.txt
+The Summit,the-summit,Stonehill College,0,20,publication_corpora/the-summit.txt
+The Summit-GC,the-summit,Grossmont College,0,10,publication_corpora/the-summit.txt
+The Torch,the-torch,Roosevelt University,0,10,publication_corpora/the-torch.txt
+The Torch-BCC,the-torch,Bergen Community College,0,10,publication_corpora/the-torch.txt
+The Torch-St John,the-torch,St. John's University-New York,0,10,publication_corpora/the-torch.txt
+The Washtenaw Voice,the-washtenaw-voice,Washtenaw Community College,0,30,publication_corpora/the-washtenaw-voice.txt
+The Weekly Ringer,the-weekly-ringer,University of Mary Washington,0,30,publication_corpora/the-weekly-ringer.txt
+The Western Carolina Journalist,the-western-carolina-journalist,Western Carolina University,1,30,publication_corpora/the-western-carolina-journalist.txt
+Pepperdine Graphic,pepperdine-graphic,Pepperdine University,1,29,publication_corpora/pepperdine-graphic.txt
+urcapitalnews,urcapitalnews,University of Richmond,1,29,publication_corpora/urcapitalnews.txt
+The Current,the-current,Brookdale Community College,0,10,publication_corpora/the-current.txt
+The Current-UMsl,the-current,University of Missouri-St Louis,0,10,publication_corpora/the-current.txt
+The Current-GRC,the-current,Green River College,0,10,publication_corpora/the-current.txt
+Community News Service,community-news-service,University of Vermont,1,26,publication_corpora/community-news-service.txt
+NewsLab,newslab,University of Mississippi,1,26,publication_corpora/newslab.txt
+www.isustudentmedia.com - RSS Results in indianastatesman of type article,www-isustudentmedia-com-rss-results-in-indianastatesman-of-type-article,Indiana State University,0,26,publication_corpora/www-isustudentmedia-com-rss-results-in-indianastatesman-of-type-article.txt
+Annapolis – CNS Maryland,annapolis-cns-maryland,University of Maryland-College Park,1,25,publication_corpora/annapolis-cns-maryland.txt
+Buffalo Review West,buffalo-review-west,SUNY Buffalo State University,1,25,publication_corpora/buffalo-review-west.txt
+Delta Digital News Service,delta-digital-news-service,Arkansas State University,1,25,publication_corpora/delta-digital-news-service.txt
+Lariat,lariat,Saddleback College,0,25,publication_corpora/lariat.txt
+The Argonaut,the-argonaut,University of Idaho,0,25,publication_corpora/the-argonaut.txt
+The Exponent,the-exponent,Baldwin Wallace University,0,20,publication_corpora/the-exponent.txt
+The Exponent-NSU,the-exponent,Northern State University,0,5,publication_corpora/the-exponent.txt
+The Impact,the-impact,Mercy University,0,25,publication_corpora/the-impact.txt
+The Lantern,the-lantern,Ohio State University,0,25,publication_corpora/the-lantern.txt
+The Oglethorpe Echo,the-oglethorpe-echo,University of Georgia,1,25,publication_corpora/the-oglethorpe-echo.txt
+The Pioneer,the-pioneer,Prairie State College,0,10,publication_corpora/the-pioneer.txt
+The Pioneer-Cat,the-pioneer,Catawba College,0,5,publication_corpora/the-pioneer.txt
+The Pioneer-CSUeb,the-pioneer,California State University-East Bay,0,10,publication_corpora/the-pioneer.txt
+The Reflector,the-reflector,Mississippi State University,0,10,publication_corpora/the-reflector.txt
+The Reflector-UI,the-reflector,University of Indianapolis,0,15,publication_corpora/the-reflector.txt
+Oakland North,oakland-north,University of California-Berkeley,1,24,publication_corpora/oakland-north.txt
+The Lumberjack,the-lumberjack,California State Polytechnic University-Humboldt,0,23,publication_corpora/the-lumberjack.txt
+CU-CitizenAccess.org,cu-citizenaccess-org,University of Illinois Urbana-Champaign,0,22,publication_corpora/cu-citizenaccess-org.txt
+Iowa State Daily,iowa-state-daily,Iowa State University,0,22,publication_corpora/iowa-state-daily.txt
+News – The Gettysburgian.,news-the-gettysburgian,Gettysburg College,0,22,publication_corpora/news-the-gettysburgian.txt
+DU Media,du-media,University of Denver,1,21,publication_corpora/du-media.txt
+The Bronx Journal,the-bronx-journal,CUNY Lehman College,0,21,publication_corpora/the-bronx-journal.txt
+The Record,the-record,SUNY Buffalo State University,0,10,publication_corpora/the-record.txt
+The Record-GC,the-record,Goshen College,0,1,publication_corpora/the-record.txt
+The Record-saints,the-record,"College of Saint Benedict, Saint Johns University",0,10,publication_corpora/the-record.txt
+Washington – CNS Maryland,washington-cns-maryland,University of Maryland-College Park,1,21,publication_corpora/washington-cns-maryland.txt
+ZU Media,zu-media,Azusa Pacific University,0,21,publication_corpora/zu-media.txt
+Belmont Vision,belmont-vision,Belmont University,0,20,publication_corpora/belmont-vision.txt
+Blue & Gold Media | Mississippi Christian University,blue-gold-media-mississippi-christian-university,Mississippi College,0,20,publication_corpora/blue-gold-media-mississippi-christian-university.txt
+Boston University News Service,boston-university-news-service,Boston University,0,20,publication_corpora/boston-university-news-service.txt
+ClaremontIndependent,claremontindependent,The Claremont Colleges,0,20,publication_corpora/claremontindependent.txt
+Digital Commons @ Andrews University,digital-commons-andrews-university,DROP,,20,publication_corpora/digital-commons-andrews-university.txt
+DigitalCommons@CSP,digitalcommons-csp,DROP,,20,publication_corpora/digitalcommons-csp.txt
+Eagle View Blog & Community Media,eagle-view-blog-community-media,NorthWest Arkansas Community College,0,20,publication_corpora/eagle-view-blog-community-media.txt
+HSU Oracle - Marketing IA,hsu-oracle-marketing-ia,DROP,,20,publication_corpora/hsu-oracle-marketing-ia.txt
+Honolulu Civil Beat,honolulu-civil-beat,University of Hawaii,1,20,publication_corpora/honolulu-civil-beat.txt
+Ka Mana'o,ka-mana-o,Leeward Community College,0,20,publication_corpora/ka-mana-o.txt
+Lesley College Current,lesley-college-current,DROP,,20,publication_corpora/lesley-college-current.txt
+"Liberty alumnus leads security efforts in fight against drugs, illegal weapons, and trafficking in Caribbean nation | Liberty News",liberty-alumnus-leads-security-efforts-in-fight-against-drugs-illegal-weapons-and-trafficking-in-caribbean-nation-liberty-news,Liberty University,0,20,publication_corpora/liberty-alumnus-leads-security-efforts-in-fight-against-drugs-illegal-weapons-and-trafficking-in-caribbean-nation-liberty-news.txt
+MUW Spectator,muw-spectator,Mississippi University for Women,0,20,publication_corpora/muw-spectator.txt
+Mysite,mysite,Los Angeles Valley College,0,20,publication_corpora/mysite.txt
+Old Gold & Black,old-gold-black,Wofford College,0,10,publication_corpora/old-gold-black.txt
+Old Gold & Black-WFU,old-gold-black,Wake Forest University,0,10,publication_corpora/old-gold-black.txt
+REAL NEWS BY REAL STUDENTS,real-news-by-real-students,California State University-San Bernardino,0,20,publication_corpora/real-news-by-real-students.txt
+Reporting Texas,reporting-texas,University of Texas at Austin,1,20,publication_corpora/reporting-texas.txt
+Richmond Confidential,richmond-confidential,University of California-Berkeley,1,20,publication_corpora/richmond-confidential.txt
+Snow College news,snow-college-news,Snow College,0,20,publication_corpora/snow-college-news.txt
+"Student Senate Association, Inc.  PURCHASE PHOENIX",student-senate-association-inc-purchase-phoenix,SUNY at Purchase College,0,20,publication_corpora/student-senate-association-inc-purchase-phoenix.txt
+Tejano Tribune,tejano-tribune,El Paso Community College,0,20,publication_corpora/tejano-tribune.txt
+The Anchor Newspaper,the-anchor-newspaper,Rhode Island College,0,20,publication_corpora/the-anchor-newspaper.txt
+The Barnard Bulletin,the-barnard-bulletin,Barnard College,0,20,publication_corpora/the-barnard-bulletin.txt
+The Bell Ringer,the-bell-ringer,Augusta University,0,20,publication_corpora/the-bell-ringer.txt
+The Bethel Collegian,the-bethel-collegian,Bethel College-North Newton,0,20,publication_corpora/the-bethel-collegian.txt
+The Campus,the-campus,Allegheny College,0,10,publication_corpora/the-campus.txt
+The Campus-CS,the-campus,College of the Sequoias,0,10,publication_corpora/the-campus.txt
+The Campus Chronicle,the-campus-chronicle,Des Moines Area Community College,0,20,publication_corpora/the-campus-chronicle.txt
+The Campus Lantern,the-campus-lantern,Eastern Connecticut State University,0,20,publication_corpora/the-campus-lantern.txt
+The Campus Magazine,the-campus-magazine,CUNY City College,0,20,publication_corpora/the-campus-magazine.txt
+The College Voice,the-college-voice-2,Connecticut College,0,20,publication_corpora/the-college-voice-2.txt
+The Collegian - Willamette University Student News,the-collegian-willamette-university-student-news,Willamette University,0,20,publication_corpora/the-collegian-willamette-university-student-news.txt
+The Concordian,the-concordian,Concordia College at Moorhead,0,20,publication_corpora/the-concordian.txt
+The Connector,the-connector,Savannah College of Art and Design,0,10,publication_corpora/the-connector.txt
+The Connector-UMassL,the-connector,University of Massachusetts-Lowell,0,10,publication_corpora/the-connector.txt
+The Crimson White,the-crimson-white,The University of Alabama,0,20,publication_corpora/the-crimson-white.txt
+The Daily Campus,the-daily-campus,Southern Methodist University,0,10,publication_corpora/the-daily-campus.txt
+The Daily Campus-Uconn,the-daily-campus,University of Connecticut,0,10,publication_corpora/the-daily-campus.txt
+The Daily Eastern News,the-daily-eastern-news,Eastern Illinois University,0,20,publication_corpora/the-daily-eastern-news.txt
+The Daily Illini,the-daily-illini,University of Illinois Urbana-Champaign,0,20,publication_corpora/the-daily-illini.txt
+The Daily Northwestern,the-daily-northwestern,Northwestern University,0,20,publication_corpora/the-daily-northwestern.txt
+The Daily Texan,the-daily-texan,University of Texas at Austin,0,20,publication_corpora/the-daily-texan.txt
+The Dominion Post,the-dominion-post,DROP,,20,publication_corpora/the-dominion-post.txt
+The Gatepost,the-gatepost,Framingham State University,0,20,publication_corpora/the-gatepost.txt
+The Graceland Buzz,the-graceland-buzz,Graceland University-Lamoni,0,20,publication_corpora/the-graceland-buzz.txt
+The Hawkeye,the-hawkeye,Hillsborough Community College,0,10,publication_corpora/the-hawkeye.txt
+The Hawkeye-ULm,the-hawkeye,University of Louisiana at Monroe,0,10,publication_corpora/the-hawkeye.txt
+The Herald at HWC,the-herald-at-hwc,City Colleges of Chicago-Harold Washington College,0,20,publication_corpora/the-herald-at-hwc.txt
+The Leader,the-leader,SUNY at Fredonia,0,10,publication_corpora/the-leader.txt
+The Leader-EU,the-leader,Elmhurst University,0,10,publication_corpora/the-leader.txt
+The MIT Tech,the-mit-tech,Massachusetts Institute of Technology,0,20,publication_corpora/the-mit-tech.txt
+The Michigan Daily,the-michigan-daily,University of Michigan,0,20,publication_corpora/the-michigan-daily.txt
+The Monmouth College Courier,the-monmouth-college-courier,Monmouth College,0,20,publication_corpora/the-monmouth-college-courier.txt
+The Mountain Echo,the-mountain-echo,Mount St. Mary's University,0,20,publication_corpora/the-mountain-echo.txt
+The Panther Newspaper,the-panther-newspaper,Clark Atlanta University,0,20,publication_corpora/the-panther-newspaper.txt
+The Patriot,the-patriot,Francis Marion University,0,10,publication_corpora/the-patriot.txt
+The Patriot-UC,the-patriot,University of the Cumberlands,0,10,publication_corpora/the-patriot.txt
+The Pine Needle,the-pine-needle,University of North Carolina at Pembroke,0,20,publication_corpora/the-pine-needle.txt
+The Point,the-point,Fitchburg State University,1,10,publication_corpora/the-point.txt
+The Point-PLNU,the-point,Point Loma Nazarene University,0,10,publication_corpora/the-point.txt
+The Prattler,the-prattler,Pratt Institute-Main,0,20,publication_corpora/the-prattler.txt
+The Prospector,the-prospector,Carroll College,0,10,publication_corpora/the-prospector.txt
+The Prospector-UTep,the-prospector,The University of Texas at El Paso,0,10,publication_corpora/the-prospector.txt
+The Pulse,the-pulse,Messiah University,0,10,The Pulse
+The Pulse-UF,the-pulse,The University of Findlay,0,10,The Pulse
+The Rambler,the-rambler,Texas Wesleyan University,0,10,publication_corpora/the-rambler.txt
+The Rambler-TU,the-rambler,Transylvania University,0,10,publication_corpora/the-rambler.txt
+The Regis Highlander,the-regis-highlander,Regis University,0,10,publication_corpora/the-regis-highlander.txt
+The Roar,the-roar,Pennsylvania State University,0,10,publication_corpora/the-roar.txt
+The Roar-PU,the-roar,Piedmont University,0,10,publication_corpora/the-roar.txt
+The Triangle,the-triangle,Drexel University,0,15,publication_corpora/the-triangle.txt
+The Triangle-BCd,the-triangle,Bryan College-Dayton,0,5,publication_corpora/the-triangle.txt
+The UCSD Guardian,the-ucsd-guardian,University of California-San Diego,0,20,publication_corpora/the-ucsd-guardian.txt
+The UIU Collegian,the-uiu-collegian,Upper Iowa University,0,20,publication_corpora/the-uiu-collegian.txt
+The Voice,the-voice,Bloomsburg University of Pennsylvania,0,10,publication_corpora/the-voice.txt
+The Voice-EOU,the-voice,Eastern Oregon University,0,10,publication_corpora/the-voice.txt
+The Wheel,the-wheel,St Catherine University,0,20,publication_corpora/the-wheel.txt
+ThePawPrint,thepawprint,Adams State University,0,20,publication_corpora/thepawprint.txt
+TommieMedia,tommiemedia,University of St Thomas,0,20,publication_corpora/tommiemedia.txt
+UMass Dartmouth’s Student Newspaper,umass-dartmouth-s-student-newspaper,University of Massachusetts-Dartmouth,0,20,publication_corpora/umass-dartmouth-s-student-newspaper.txt
+USF Encounter,usf-encounter,University of St Francis,0,20,publication_corpora/usf-encounter.txt
+Visions,visions,Passaic County Community College,0,20,publication_corpora/visions.txt
+Wilmington Witness,wilmington-witness,Wilmington College,0,20,publication_corpora/wilmington-witness.txt
+bmcbeacon,bmcbeacon,Blue Mountain Christian University,0,20,publication_corpora/bmcbeacon.txt
+trop,trop,Troy University,0,20,publication_corpora/trop.txt
+Canalside Chronicles,canalside-chronicles,SUNY Brockport,1,19,publication_corpora/canalside-chronicles.txt
+Logan Center for Urban Investigative Reporting,logan-center-for-urban-investigative-reporting,Temple University,0,18,publication_corpora/logan-center-for-urban-investigative-reporting.txt
+The Highlander,the-highlander,Misericordia University,0,10,publication_corpora/the-highlander.txt
+The Highlander-Lyon,the-highlander,Lyon College,0,8,publication_corpora/the-highlander.txt
+The Columbia Chronicle,the-columbia-chronicle,Columbia College Chicago,0,17,publication_corpora/the-columbia-chronicle.txt
+www.easternprogress.com - RSS Results,www-easternprogress-com-rss-results,Eastern Kentucky University,0,17,publication_corpora/www-easternprogress-com-rss-results.txt
+CNS TV – CNS Maryland,cns-tv-cns-maryland,University of Maryland-College Park,1,16,publication_corpora/cns-tv-cns-maryland.txt
+The Diamondback,the-diamondback,University of Maryland-College Park,0,16,publication_corpora/the-diamondback.txt
+WKUHerald.com,wkuherald-com,Western Kentucky University,0,16,publication_corpora/wkuherald-com.txt
+Basement Medicine,basement-medicine,Vermont state University-Johnson,0,15,publication_corpora/basement-medicine.txt
+Borderzine,borderzine,The University of Texas at El Paso,1,15,publication_corpora/borderzine.txt
+LakeVoice - Medium,lakevoice-medium,University of Minnesota-Duluth,0,15,publication_corpora/lakevoice-medium.txt
+News - The Daily Illini,news-the-daily-illini,University of Illinois Urbana-Champaign,0,15,publication_corpora/news-the-daily-illini.txt
+THE COLLEGE REPORTER,the-college-reporter,Franklin and Marshall College,0,15,publication_corpora/the-college-reporter.txt
+The Amherst Student,the-amherst-student,Amherst College,0,15,publication_corpora/the-amherst-student.txt
+The Augustana Mirror,the-augustana-mirror,Augustana University,0,15,publication_corpora/the-augustana-mirror.txt
+The Bulletin,the-bulletin,Emporia State University,0,10,publication_corpora/the-bulletin.txt
+The Bulletin-CSUdh,the-bulletin,California State University-Dominguez Hills,0,5,publication_corpora/the-bulletin.txt
+The Columns,the-columns,Fairmont State University,0,10,publication_corpora/the-columns.txt
+The Columns-WC,the-columns,Westminster College,0,5,publication_corpora/the-columns.txt
+The Daily Utah Chronicle,the-daily-utah-chronicle,University of Utah,0,15,publication_corpora/the-daily-utah-chronicle.txt
+The Eagle Eye,the-eagle-eye,Commonwealth University of Pennsylvania-Lock Haven,0,15,publication_corpora/the-eagle-eye.txt
+The Vantage,the-vantage,Newman University,0,15,publication_corpora/the-vantage.txt
+The Watchdog,the-watchdog,Bellevue College,0,15,publication_corpora/the-watchdog.txt
+Crosstown,crosstown,University of Southern California,1,14,publication_corpora/crosstown.txt
+Milligan Stampede,milligan-stampede,Milligan University,0,14,publication_corpora/milligan-stampede.txt
+My Site,my-site,Northampton County Area Community College,0,14,publication_corpora/my-site.txt
+The Daily Orange,the-daily-orange,Syracuse University,0,14,publication_corpora/the-daily-orange.txt
+The Hoya,the-hoya,Georgetown University,0,14,publication_corpora/the-hoya.txt
+The Mount Observer,the-mount-observer,Mount Wachusett Community College,0,14,publication_corpora/the-mount-observer.txt
+The Sunflower,the-sunflower,Wichita State University,0,14,publication_corpora/the-sunflower.txt
+www.komu.com - RSS Results of type article with keyword(s) of #topstory,www-komu-com-rss-results-of-type-article-with-keyword-s-of-topstory,University of Missouri,1,14,publication_corpora/www-komu-com-rss-results-of-type-article-with-keyword-s-of-topstory.txt
+270 Stories,270-stories,Murray State University,1,13,publication_corpora/270-stories.txt
+Data Stories – CNS Maryland,data-stories-cns-maryland,University of Maryland-College Park,1,13,publication_corpora/data-stories-cns-maryland.txt
+Kentucky Kernel,kentucky-kernel,University of Kentucky,0,13,publication_corpora/kentucky-kernel.txt
+NewsLINC - Latest News,newslinc-latest-news,Vermont State University - Lyndon,0,13,publication_corpora/newslinc-latest-news.txt
+USC Annenberg,usc-annenberg,DROP,,13,publication_corpora/usc-annenberg.txt
+AUM,aum,Auburn University at Montgomery,0,12,publication_corpora/aum.txt
+Arnolt Center for Investigative Journalism,arnolt-center-for-investigative-journalism,Indiana University-Bloomington,1,12,publication_corpora/arnolt-center-for-investigative-journalism.txt
+El Vaquero,el-vaquero,Glendale Community College,0,12,publication_corpora/el-vaquero.txt
+F Newsmagazine,f-newsmagazine,School of the Art Institute of Chicago,0,12,publication_corpora/f-newsmagazine.txt
+News - F Newsmagazine,news-f-newsmagazine,School of the Art Institute of Chicago,0,12,publication_corpora/news-f-newsmagazine.txt
+PantherNOW,panthernow,Florida International University,0,12,publication_corpora/panthernow.txt
+THE CAROLINIAN,the-carolinian,University of North Carolina at Greensboro,0,12,publication_corpora/the-carolinian.txt
+TMN,tmn,Truman State University,0,12,publication_corpora/tmn.txt
+The Arapahoe Pinnacle,the-arapahoe-pinnacle,Arapahoe Community College,0,12,publication_corpora/the-arapahoe-pinnacle.txt
+The Bachelor,the-bachelor,Wabash College,0,12,publication_corpora/the-bachelor.txt
+The College VOICE,the-college-voice,Mercer County Community College,0,12,publication_corpora/the-college-voice.txt
+The Daily Collegian,the-daily-collegian,Pennsylvania State University-Main Campus,0,12,publication_corpora/the-daily-collegian.txt
+The Miami Hurricane,the-miami-hurricane,University of Miami,0,12,publication_corpora/the-miami-hurricane.txt
+The Trail,the-trail,University of Puget Sound,0,12,publication_corpora/the-trail.txt
+The Wood Word,the-wood-word,Marywood University,0,12,publication_corpora/the-wood-word.txt
+Woodall Weekend Workshop Archives — Grady Newsource,woodall-weekend-workshop-archives-grady-newsource,University of Georgia,1,12,publication_corpora/woodall-weekend-workshop-archives-grady-newsource.txt
+Community News - University Times,community-news-university-times,California State University-Los Angeles,1,11,publication_corpora/community-news-university-times.txt
+DigitalCommons@Lesley,digitalcommons-lesley,DROP,,11,publication_corpora/digitalcommons-lesley.txt
+The Battalion,the-battalion,Texas A&M University,0,11,publication_corpora/the-battalion.txt
+The Daily Mississippian,the-daily-mississippian,University of Mississippi,0,11,publication_corpora/the-daily-mississippian.txt
+The Heights,the-heights,Boston College,0,11,publication_corpora/the-heights.txt
+https://kentstatenewslab.org/feed/,https-kentstatenewslab-org-feed,Kent State University,1,11,publication_corpora/https-kentstatenewslab-org-feed.txt
+ACCENT,accent,Austin Community College District,,10,publication_corpora/accent.txt
+ALCIVIA,alcivia,DROP,,10,publication_corpora/alcivia.txt
+All the Lehigh University News First - The Brown and White,all-the-lehigh-university-news-first-the-brown-and-white,Lehigh University,0,10,publication_corpora/all-the-lehigh-university-news-first-the-brown-and-white.txt
+Anchor,anchor,Hope College,0,10,publication_corpora/anchor.txt
+Augustana Observer,augustana-observer,Augustana College,,10,publication_corpora/augustana-observer.txt
+BCO Digital Report,bco-digital-report,DROP,,10,publication_corpora/bco-digital-report.txt
+BCVoice,bcvoice,Bridgewater College,0,10,publication_corpora/bcvoice.txt
+BG Falcon Media,bg-falcon-media,Bowling Green State University-Main Campus,0,10,publication_corpora/bg-falcon-media.txt
+BHSU Media,bhsu-media,Black Hills State University,0,10,publication_corpora/bhsu-media.txt
+BYU-Idaho Scroll,byu-idaho-scroll,Brigham Young University-Idaho,0,10,publication_corpora/byu-idaho-scroll.txt
+Banner News,banner-news,Des Moines Area Community College,0,10,publication_corpora/banner-news.txt
+Bear Media,bear-media,University of Central Arkansas,0,10,publication_corpora/bear-media.txt
+Belmont Abbey College,belmont-abbey-college,Belmont Abbey College,0,10,publication_corpora/belmont-abbey-college.txt
+BethelClarion.Com,bethelclarion-com,DROP,,10,publication_corpora/bethelclarion-com.txt
+Blazer Media,blazer-media,University of Alabama at Birmingham,0,10,publication_corpora/blazer-media.txt
+CCBC Connection,ccbc-connection,Community College of Baltimore County,0,10,publication_corpora/ccbc-connection.txt
+CNCC | The Herald Times,cncc-the-herald-times,Colorado Northwestern Community College,0,10,publication_corpora/cncc-the-herald-times.txt
+CT Community News,ct-community-news,Multi,1,10,publication_corpora/ct-community-news.txt
+Cairn University,cairn-university,Cairn University-Langhorne,0,10,publication_corpora/cairn-university.txt
+Calvin University Chimes,calvin-university-chimes,Calvin University,0,10,publication_corpora/calvin-university-chimes.txt
+Camden County College Times,camden-county-college-times,Camden County College,0,10,publication_corpora/camden-county-college-times.txt
+Campus Current,campus-current,Anne Arundel Community College,0,10,publication_corpora/campus-current.txt
+Campus Echo Online,campus-echo-online,North Carolina Central University,0,10,publication_corpora/campus-echo-online.txt
+Cardinal Points,cardinal-points,SUNY College at Plattsburgh,0,10,publication_corpora/cardinal-points.txt
+Casper College Chinook,casper-college-chinook,Casper College,0,10,publication_corpora/casper-college-chinook.txt
+Castleton Spartan,castleton-spartan,Vermont State University - Castleton,0,10,publication_corpora/castleton-spartan.txt
+Cedars,cedars,Cedarville University,0,10,publication_corpora/cedars.txt
+Chadron State College News,chadron-state-college-news,Chadron State College,0,10,publication_corpora/chadron-state-college-news.txt
+Chaminade Silversword,chaminade-silversword,Chaminade University of Honolulu,0,10,publication_corpora/chaminade-silversword.txt
+Chicago Maroon,chicago-maroon,University of Chicago,0,10,publication_corpora/chicago-maroon.txt
+ChicagoTalks,chicagotalks,Columbia College Chicago,1,10,publication_corpora/chicagotalks.txt
+Chronicle,chronicle,Shawnee State University,0,10,publication_corpora/chronicle.txt
+City Newsroom,city-newsroom,Columbia University in the City of New York,1,10,publication_corpora/city-newsroom.txt
+City Times,city-times,San Diego City College,0,10,publication_corpora/city-times.txt
+City on a Hill Press,city-on-a-hill-press,University of California-Santa Cruz,0,10,publication_corpora/city-on-a-hill-press.txt
+Communiqué,communiqu,Chatham University,0,10,publication_corpora/communiqu.txt
+Concordiensis,concordiensis,Union College,0,10,publication_corpora/concordiensis.txt
+Cooper Squared,cooper-squared,New York University,1,10,publication_corpora/cooper-squared.txt
+CougMedia,cougmedia,Colorado Christian University,0,10,publication_corpora/cougmedia.txt
+County College of Morris (CCM),county-college-of-morris-ccm,County College of Morris,0,10,publication_corpora/county-college-of-morris-ccm.txt
+Courtbouillon,courtbouillon,Dillard University,0,10,publication_corpora/courtbouillon.txt
+Coyote Student News at the College of Southern Nevada,coyote-student-news-at-the-college-of-southern-nevada,College of Southern Nevada,0,10,publication_corpora/coyote-student-news-at-the-college-of-southern-nevada.txt
+Creightonian,creightonian,Creighton University,0,10,publication_corpora/creightonian.txt
+Crusader News,crusader-news,Seward County Community College,0,10,publication_corpora/crusader-news.txt
+Daily Emerald,daily-emerald,University of Oregon,0,10,publication_corpora/daily-emerald.txt
+Daily Sundial,daily-sundial,California State University-Northridge,0,10,publication_corpora/daily-sundial.txt
+Davidsonian,davidsonian,Davidson College,0,10,publication_corpora/davidsonian.txt
+Daytona State In Motion,daytona-state-in-motion,Daytona State College,0,10,publication_corpora/daytona-state-in-motion.txt
+Delta Collegiate,delta-collegiate,Delta College,0,10,publication_corpora/delta-collegiate.txt
+Democracy Watch,democracy-watch,Florida Gulf Coast University,1,10,publication_corpora/democracy-watch.txt
+District,district,Savannah College of Art and Design,0,10,publication_corpora/district.txt
+Doaneline,doaneline,Doane University,0,10,publication_corpora/doaneline.txt
+ECC Cornerstone,ecc-cornerstone,East Central College,0,10,publication_corpora/ecc-cornerstone.txt
+ENMU The Chase Online,enmu-the-chase-online,Eastern New Mexico University-Main Campus,0,10,publication_corpora/enmu-the-chase-online.txt
+EU Valor Media News,eu-valor-media-news,Evangel University,0,10,publication_corpora/eu-valor-media-news.txt
+Eagle Media,eagle-media,Florida Gulf Coast University,0,10,publication_corpora/eagle-media.txt
+East Tennessean,east-tennessean,East Tennessee State University,0,10,publication_corpora/east-tennessean.txt
+El Camino College The Union,el-camino-college-the-union,El Camino Community College District,0,10,publication_corpora/el-camino-college-the-union.txt
+Emmanuel College The Hub,emmanuel-college-the-hub,Emmanuel College,0,10,publication_corpora/emmanuel-college-the-hub.txt
+Exponent,exponent,University of Wisconsin-Platteville,0,10,publication_corpora/exponent.txt
+FAU University Press,fau-university-press,Florida Atlantic University,0,10,publication_corpora/fau-university-press.txt
+Flat Hat News,flat-hat-news,William & Mary,0,10,publication_corpora/flat-hat-news.txt
+Flourishing Fresno,flourishing-fresno,California State University-Fresno,0,10,publication_corpora/flourishing-fresno.txt
+Flyer News: Univ. of Dayton's Student Newspaper,flyer-news-univ-of-dayton-s-student-newspaper,University of Dayton,0,10,publication_corpora/flyer-news-univ-of-dayton-s-student-newspaper.txt
+Fourth Estate,fourth-estate,George Mason University,0,10,publication_corpora/fourth-estate.txt
+Fresh Take Georgia,fresh-take-georgia,Kennesaw State University,1,10,publication_corpora/fresh-take-georgia.txt
+GC3 MEDIA,gc3-media,Garden City Community College,0,10,publication_corpora/gc3-media.txt
+GWU-Today,gwu-today,Gardner-Webb University,0,10,publication_corpora/gwu-today.txt
+Golden Gate Xpress,golden-gate-xpress,San Francisco State University,0,10,publication_corpora/golden-gate-xpress.txt
+Grand Valley Lanthorn,grand-valley-lanthorn,Grand Valley State University,0,10,publication_corpora/grand-valley-lanthorn.txt
+Herd Media,herd-media,Lipscomb University,0,10,publication_corpora/herd-media.txt
+Hilltop News,hilltop-news,Corban University,0,10,publication_corpora/hilltop-news.txt
+Hilltop Views,hilltop-views,Saint Edward's University,1,10,publication_corpora/hilltop-views.txt
+Holmes Community College,holmes-community-college,Holmes Community College,0,10,publication_corpora/holmes-community-college.txt
+Huntingdon College,huntingdon-college,Huntingdon College,0,10,publication_corpora/huntingdon-college.txt
+Iron Blade,iron-blade,Ferrum College,0,10,publication_corpora/iron-blade.txt
+Jag Media,jag-media,University of South Alabama,0,10,publication_corpora/jag-media.txt
+Jaguar Student Media,jaguar-student-media,Governors State University,0,10,publication_corpora/jaguar-student-media.txt
+KentStater,kentstater,Kent State University at Kent,0,10,publication_corpora/kentstater.txt
+Keystone Newspaper,keystone-newspaper,Kutztown University of Pennsylvania,0,10,publication_corpora/keystone-newspaper.txt
+Kirkwood Communiqué,kirkwood-communiqu,Kirkwood Community College,0,10,publication_corpora/kirkwood-communiqu.txt
+KnightNews.com,knightnews-com,University of Central Florida,0,10,publication_corpora/knightnews-com.txt
+Knightly News | Central Penn College’s Student News Organization,knightly-news-central-penn-college-s-student-news-organization,Central Penn College,0,10,publication_corpora/knightly-news-central-penn-college-s-student-news-organization.txt
+LSU Cold Case Project,lsu-cold-case-project,Louisiana State University,1,10,publication_corpora/lsu-cold-case-project.txt
+La Voz News,la-voz-news,De Anza College,0,10,publication_corpora/la-voz-news.txt
+Le Provocateur,le-provocateur,Assumption University,0,10,publication_corpora/le-provocateur.txt
+Lindenlink,lindenlink,Lindenwood University,0,10,publication_corpora/lindenlink.txt
+Long Beach Current,long-beach-current,California State University-Long Beach,0,10,publication_corpora/long-beach-current.txt
+Lumen,lumen,Viterbo University,0,10,publication_corpora/lumen.txt
+MATC Times,matc-times,Milwaukee Area Technical College,0,10,publication_corpora/matc-times.txt
+MMU Arches,mmu-arches,Mount Mary University,0,10,publication_corpora/mmu-arches.txt
+MTSU Sidelines,mtsu-sidelines,Middle Tennessee State University,0,10,publication_corpora/mtsu-sidelines.txt
+Mako News,mako-news,Nova Southeastern University,0,10,publication_corpora/mako-news.txt
+Marquette Wire,marquette-wire,Marquette University,0,10,publication_corpora/marquette-wire.txt
+Maryville Pawprint,maryville-pawprint,Maryville University of Saint Louis,0,10,publication_corpora/maryville-pawprint.txt
+Massachusetts Daily Collegian,massachusetts-daily-collegian,University of Massachusetts-Amherst,0,10,publication_corpora/massachusetts-daily-collegian.txt
+Massachusetts News Service,massachusetts-news-service,Endicott College,1,10,publication_corpora/massachusetts-news-service.txt
+Mcccagora,mcccagora,Monroe County Community College,0,10,publication_corpora/mcccagora.txt
+Mercyhurst,mercyhurst,DROP,,10,publication_corpora/mercyhurst.txt
+Mesquite-News – Texas A&M University San Antonio,mesquite-news-texas-a-m-university-san-antonio,Texas A&M University-San Antonio,0,10,publication_corpora/mesquite-news-texas-a-m-university-san-antonio.txt
+Miami Regionals Pulse News,miami-regionals-pulse-news,Miami University,0,10,publication_corpora/miami-regionals-pulse-news.txt
+Mirror News,mirror-news,Henry Ford College,0,10,publication_corpora/mirror-news.txt
+Muleskinner,muleskinner,University of Central Missouri,0,10,publication_corpora/muleskinner.txt
+Mustang News,mustang-news,California Polytechnic State University-San Luis Obispo,0,10,publication_corpora/mustang-news.txt
+My TJ Now,my-tj-now,Winthrop University,0,10,publication_corpora/my-tj-now.txt
+Myclarionnews.com,myclarionnews-com,Lincoln University,0,10,publication_corpora/myclarionnews-com.txt
+NCClinked,ncclinked,North Central College,0,10,publication_corpora/ncclinked.txt
+NECC Observer,necc-observer,Northern Essex Community College,0,10,publication_corpora/necc-observer.txt
+NEIU Independent,neiu-independent,Northeastern Illinois University,0,10,publication_corpora/neiu-independent.txt
+NMSU Round Up,nmsu-round-up,New Mexico State University,0,10,publication_corpora/nmsu-round-up.txt
+New University | UC Irvine,new-university-uc-irvine,University of California-Irvine,0,10,publication_corpora/new-university-uc-irvine.txt
+News - Herd Media,news-herd-media,Lipscomb University,0,10,publication_corpora/news-herd-media.txt
+News - KWUStudentMedia,news-kwustudentmedia,Kansas Wesleyan University,0,10,publication_corpora/news-kwustudentmedia.txt
+News Archives - SXU Student Media,news-archives-sxu-student-media,Saint Xavier University,0,10,publication_corpora/news-archives-sxu-student-media.txt
+News – Daily Sundial,news-daily-sundial,California State University-Northridge,0,10,publication_corpora/news-daily-sundial.txt
+News – Luther College Chips,news-luther-college-chips,Luther College,0,10,publication_corpora/news-luther-college-chips.txt
+News – Moraine Valley Community College,news-moraine-valley-community-college,Moraine Valley Community College,0,10,publication_corpora/news-moraine-valley-community-college.txt
+News – The Crestiad,news-the-crestiad,Cedar Crest College,0,10,publication_corpora/news-the-crestiad.txt
+News – The Insight,news-the-insight,Daemen University,0,10,publication_corpora/news-the-insight.txt
+News-Register,news-register,Dallas College-North Lake,0,10,publication_corpora/news-register.txt
+Northern Iowan,northern-iowan,University of Northern Iowa,0,10,publication_corpora/northern-iowan.txt
+Northern Review,northern-review,Ohio Northern University,0,10,publication_corpora/northern-review.txt
+Northern Star,northern-star,Northern Illinois University,0,10,publication_corpora/northern-star.txt
+Observer,observer,Elgin Community College,0,10,publication_corpora/observer.txt
+Occurrence,occurrence,Oakton Community College,0,10,publication_corpora/occurrence.txt
+Online Only – Richland Student Media,online-only-richland-student-media,Dallas College-Richland,0,10,publication_corpora/online-only-richland-student-media.txt
+Orange Media Network,orange-media-network,Oregon State University,0,10,publication_corpora/orange-media-network.txt
+Oxford Observer,oxford-observer,Miami University-Oxford,1,10,publication_corpora/oxford-observer.txt
+PCC Courier,pcc-courier,Pasadena City College,0,10,publication_corpora/pcc-courier.txt
+PNW Pioneer,pnw-pioneer,Purdue University Northwest,0,10,publication_corpora/pnw-pioneer.txt
+Patch Labs,patch-labs,DROP,,10,publication_corpora/patch-labs.txt
+Pavement Pieces,pavement-pieces,New York University,1,10,publication_corpora/pavement-pieces.txt
+Peace Times Media,peace-times-media,William Peace University,0,10,publication_corpora/peace-times-media.txt
+Penmen Press,penmen-press,Southern New Hampshire University,0,10,publication_corpora/penmen-press.txt
+Philadelphia Neighborhoods,philadelphia-neighborhoods,Temple University,1,10,publication_corpora/philadelphia-neighborhoods.txt
+Pima Post,pima-post,Pima Community College,0,10,publication_corpora/pima-post.txt
+Pleasantville Press,pleasantville-press,Pace University,1,10,publication_corpora/pleasantville-press.txt
+Point Park Globe,point-park-globe,Point Park University,0,10,publication_corpora/point-park-globe.txt
+Prarie View A&M (pvpanther),prarie-view-a-m-pvpanther,Prairie View A & M University,0,10,publication_corpora/prarie-view-a-m-pvpanther.txt
+QUTV,qutv,Quincy University,0,10,publication_corpora/qutv.txt
+RMU Sentry Media,rmu-sentry-media,Robert Morris University,0,10,publication_corpora/rmu-sentry-media.txt
+Reporter Magazine,reporter-magazine,Rochester Institute of Technology,0,10,publication_corpora/reporter-magazine.txt
+Reveille,reveille,Louisiana State University,0,10,publication_corpora/reveille.txt
+Richland Student Media,richland-student-media,Dallas College-Richland,0,10,publication_corpora/richland-student-media.txt
+Roo News,roo-news,University of Missouri-Kansas City,0,10,publication_corpora/roo-news.txt
+Royal Purple,royal-purple,University of Wisconsin-Whitewater,0,10,publication_corpora/royal-purple.txt
+SAC Media,sac-media,Mt San Antonio College,0,10,publication_corpora/sac-media.txt
+SM2,sm2,University of Southern Mississippi,0,10,publication_corpora/sm2.txt
+SUU News,suu-news,Southern Utah University,0,10,publication_corpora/suu-news.txt
+SWC The Sun Newspaper,swc-the-sun-newspaper,Southwestern College,0,10,publication_corpora/swc-the-sun-newspaper.txt
+SXU Student Media,sxu-student-media,Saint Xavier University,0,10,publication_corpora/sxu-student-media.txt
+San Francisco Foghorn,san-francisco-foghorn,University of San Francisco,0,10,publication_corpora/san-francisco-foghorn.txt
+San Jacinto Times,san-jacinto-times,San Jacinto Community College,0,10,publication_corpora/san-jacinto-times.txt
+Schoolcraft Connection,schoolcraft-connection,Schoolcraft Community College District,0,10,publication_corpora/schoolcraft-connection.txt
+Signal,signal,California State University-Stanislaus,0,10,publication_corpora/signal.txt
+Six Mile Post,six-mile-post,Georgia Highlands College,0,10,publication_corpora/six-mile-post.txt
+Sonoma State Star,sonoma-state-star,Sonoma State University,0,10,publication_corpora/sonoma-state-star.txt
+Southern News,southern-news,Southern Connecticut State University,0,10,publication_corpora/southern-news.txt
+Spartan Echo,spartan-echo,Norfolk State University,0,10,publication_corpora/spartan-echo.txt
+St. Norbert Times,st-norbert-times,Saint Norbert College,0,10,publication_corpora/st-norbert-times.txt
+Stevenson Villager,stevenson-villager,Stevenson University,0,10,publication_corpora/stevenson-villager.txt
+Stories by Outlook Student Press RCC on Medium,stories-by-outlook-student-press-rcc-on-medium,Rockland Community College,0,10,publication_corpora/stories-by-outlook-student-press-rcc-on-medium.txt
+Stoutonia,stoutonia,University of Wisconsin-Stout,0,10,publication_corpora/stoutonia.txt
+Student Life,student-life,Washington University in St Louis,0,10,publication_corpora/student-life.txt
+Stylus,stylus,Park University,0,10,publication_corpora/stylus.txt
+Sun News Daily,sun-news-daily,Utah Tech University,0,10,publication_corpora/sun-news-daily.txt
+TCU 360,tcu-360,Texas Christian University,0,10,publication_corpora/tcu-360.txt
+THE COLLEGIAN - News,the-collegian-news,Saint Mary's College of California,0,10,publication_corpora/the-collegian-news.txt
+THE DEFIANCE COLLEGE DEFENDER,the-defiance-college-defender,Defiance College,0,10,publication_corpora/the-defiance-college-defender.txt
+THE GANNON KNIGHT,the-gannon-knight,Gannon University,0,10,publication_corpora/the-gannon-knight.txt
+THE HERALD,the-herald,Arkansas State University,0,10,publication_corpora/the-herald.txt
+THE PACE CHRONICLE,the-pace-chronicle,Pace University,0,10,publication_corpora/the-pace-chronicle.txt
+THE ROADRUNNER,the-roadrunner,Butte College,0,10,publication_corpora/the-roadrunner.txt
+THE SOPHIAN,the-sophian,Smith College,0,10,publication_corpora/the-sophian.txt
+THE WHITETOPPER - News,the-whitetopper-news,Emory & Henry College,0,10,publication_corpora/the-whitetopper-news.txt
+THIELENSIAN,thielensian,Thiel College,0,10,publication_corpora/thielensian.txt
+TU Campus Digest,tu-campus-digest,Tuskegee University,0,10,publication_corpora/tu-campus-digest.txt
+Talon Marks,talon-marks,Cerritos College,0,10,publication_corpora/talon-marks.txt
+Teaching & Learning,teaching-learning,Johnson County Community College,0,10,publication_corpora/teaching-learning.txt
+Technician,technician,North Carolina State University at Raleigh,0,10,publication_corpora/technician.txt
+Texas Center For Community Journalism,texas-center-for-community-journalism,Tarleton State University,1,10,publication_corpora/texas-center-for-community-journalism.txt
+The A&T Register,the-a-t-register,North Carolina A & T State University,1,10,publication_corpora/the-a-t-register.txt
+The Advance,the-advance,Stillman College,0,10,publication_corpora/the-advance.txt
+The Advance-Titan,the-advance-titan,University of Wisconsin-Oshkosh,0,10,publication_corpora/the-advance-titan.txt
+The Albion College Pleiad Online,the-albion-college-pleiad-online,Albion College,0,10,publication_corpora/the-albion-college-pleiad-online.txt
+The All State,the-all-state,Austin Peay State University,0,10,publication_corpora/the-all-state.txt
+The American River Current,the-american-river-current,American River College,0,10,publication_corpora/the-american-river-current.txt
+The Andersonian,the-andersonian,Anderson University,0,10,publication_corpora/the-andersonian.txt
+The Angler,the-angler,Lake-Sumter State College,0,10,publication_corpora/the-angler.txt
+The Antelope,the-antelope,University of Nebraska at Kearney,0,10,publication_corpora/the-antelope.txt
+The Arbiter,the-arbiter,Boise State University,0,10,publication_corpora/the-arbiter.txt
+The Argo,the-argo,Stockton University,0,10,publication_corpora/the-argo.txt
+The Argus,the-argus,Illinois Wesleyan University,0,10,publication_corpora/the-argus.txt
+The Badger Herald,the-badger-herald,University of Wisconsin,0,10,publication_corpora/the-badger-herald.txt
+The Baker Orange,the-baker-orange,Baker University,0,10,publication_corpora/the-baker-orange.txt
+The Banner,the-banner,California Baptist University,0,10,publication_corpora/the-banner.txt
+The Bates Student,the-bates-student,Bates College,0,10,publication_corpora/the-bates-student.txt
+The Behrend Beacon,the-behrend-beacon,Pennsylvania State University-Penn State Erie-Behrend College,0,10,publication_corpora/the-behrend-beacon.txt
+The Belltower,the-belltower,Mount Aloysius College,0,10,publication_corpora/the-belltower.txt
+The Bengal,the-bengal,Idaho State University,0,10,publication_corpora/the-bengal.txt
+The Berkeley Beacon,the-berkeley-beacon,Emerson College,0,10,publication_corpora/the-berkeley-beacon.txt
+The Blue & White Flash,the-blue-white-flash,Jackson State University,0,10,publication_corpora/the-blue-white-flash.txt
+The Blue Banner,the-blue-banner,University of North Carolina at Asheville,0,10,publication_corpora/the-blue-banner.txt
+The Bolt,the-bolt,University of New England,0,10,publication_corpora/the-bolt.txt
+The Bowdoin Orient,the-bowdoin-orient,Bowdoin College,0,10,publication_corpora/the-bowdoin-orient.txt
+The Brackety-Ack,the-brackety-ack,Roanoke College,0,10,publication_corpora/the-brackety-ack.txt
+The Bradley Scout,the-bradley-scout,Bradley University,0,10,publication_corpora/the-bradley-scout.txt
+The Bridge,the-bridge,Lewis and Clark Community College,0,10,publication_corpora/the-bridge.txt
+The Bridge News,the-bridge-news,Texas A & M International University,0,10,publication_corpora/the-bridge-news.txt
+The Broadside,the-broadside,Central Oregon Community College,0,10,publication_corpora/the-broadside.txt
+The Brookhaven Courier,the-brookhaven-courier,Dallas College-Brookhaven,0,10,publication_corpora/the-brookhaven-courier.txt
+The Brooklyn College Vanguard,the-brooklyn-college-vanguard,CUNY Brooklyn College,0,10,publication_corpora/the-brooklyn-college-vanguard.txt
+The Bruin News,the-bruin-news,Kellogg Community College,0,10,publication_corpora/the-bruin-news.txt
+The Buchtelite,the-buchtelite,University of Akron,0,10,publication_corpora/the-buchtelite.txt
+The Bucknellian,the-bucknellian,Bucknell University,0,10,publication_corpora/the-bucknellian.txt
+The Butler Collegian,the-butler-collegian,Butler University,0,10,publication_corpora/the-butler-collegian.txt
+The CI View,the-ci-view,California State University-Channel Islands,0,10,publication_corpora/the-ci-view.txt
+The Campus Times,the-campus-times,Campbellsville University,0,10,publication_corpora/the-campus-times.txt
+The Campus Voice,the-campus-voice,Florida State College at Jacksonville,0,10,publication_corpora/the-campus-voice.txt
+The Candor,the-candor,Benedictine University,0,10,publication_corpora/the-candor.txt
+The Captain's Log,the-captain-s-log,Christopher Newport University,0,10,publication_corpora/the-captain-s-log.txt
+The Carletonian,the-carletonian,Carleton College,0,10,publication_corpora/the-carletonian.txt
+The Carroll News,the-carroll-news,John Carroll University,0,10,publication_corpora/the-carroll-news.txt
+The Centurion,the-centurion,Bucks County Community College,0,10,publication_corpora/the-centurion.txt
+The Century Times,the-century-times,Century College,0,10,publication_corpora/the-century-times.txt
+The Chanticleer,the-chanticleer,Averett University,0,10,publication_corpora/the-chanticleer.txt
+The Chart,the-chart,Missouri Southern State University,0,10,publication_corpora/the-chart.txt
+The Chronicle,the-chronicle,College of Lake County,0,10,publication_corpora/the-chronicle.txt
+The Circuit,the-circuit,Benedictine College,0,10,publication_corpora/the-circuit.txt
+The Clackamas Print,the-clackamas-print,Clackamas Community College,0,10,publication_corpora/the-clackamas-print.txt
+The Clerk,the-clerk,Haverford College,0,10,publication_corpora/the-clerk.txt
+The Clipper,the-clipper,Everett Community College,0,10,publication_corpora/the-clipper.txt
+The Clock,the-clock,Plymouth State University,0,10,publication_corpora/the-clock.txt
+The Colgate Maroon-News,the-colgate-maroon-news,Colgate University,0,10,publication_corpora/the-colgate-maroon-news.txt
+The Collegiate Live,the-collegiate-live,Grand Rapids Community College,0,10,publication_corpora/the-collegiate-live.txt
+The Collegio,the-collegio,Pittsburg State University,0,10,publication_corpora/the-collegio.txt
+The Comenian,the-comenian,Moravian University,0,10,publication_corpora/the-comenian.txt
+The Comment,the-comment,Bridgewater State University,0,10,publication_corpora/the-comment.txt
+The Communicator,the-communicator,Spokane Community College,0,10,publication_corpora/the-communicator.txt
+The Correspondent,the-correspondent,Indiana University-Kokomo,0,10,publication_corpora/the-correspondent.txt
+The Cougar Chronicle,the-cougar-chronicle,California State University-San Marcos,0,10,publication_corpora/the-cougar-chronicle.txt
+The Courier,the-courier,College of DuPage,0,10,publication_corpora/the-courier.txt
+The Cowl,the-cowl,Providence College,0,10,publication_corpora/the-cowl.txt
+The Crestiad,the-crestiad,Cedar Crest College,0,10,publication_corpora/the-crestiad.txt
+The Criterion,the-criterion,Colorado Mesa University,0,10,publication_corpora/the-criterion.txt
+The Critic,the-critic,Vermont State University - Lyndon,0,10,publication_corpora/the-critic.txt
+The Crossover,the-crossover,Champlain College,0,10,publication_corpora/the-crossover.txt
+The Crown,the-crown,King's College,0,10,publication_corpora/the-crown.txt
+The Cuestonian,the-cuestonian,Cuesta College,0,10,publication_corpora/the-cuestonian.txt
+"The Cypress Chronicle – A First Amendment Publication in Cypress, California",the-cypress-chronicle-a-first-amendment-publication-in-cypress-california,Cypress College,,10,publication_corpora/the-cypress-chronicle-a-first-amendment-publication-in-cypress-california.txt
+The Daily Aztec,the-daily-aztec,San Diego State University,0,10,publication_corpora/the-daily-aztec.txt
+The Daily Barometer,the-daily-barometer,Oregon State University,0,10,publication_corpora/the-daily-barometer.txt
+The Daily Beacon,the-daily-beacon,The University of Tennessee,0,10,publication_corpora/the-daily-beacon.txt
+The Daily Egyptian,the-daily-egyptian,Southern Illinois University,0,10,publication_corpora/the-daily-egyptian.txt
+The Daily Evergreen,the-daily-evergreen,Washington State University,0,10,publication_corpora/the-daily-evergreen.txt
+The Daily Free Press,the-daily-free-press,Boston University,0,10,publication_corpora/the-daily-free-press.txt
+The Daily Wildcat,the-daily-wildcat,University of Arizona,0,10,publication_corpora/the-daily-wildcat.txt
+The Dale News,the-dale-news,Farmingdale State College,0,10,publication_corpora/the-dale-news.txt
+The DePaulia,the-depaulia,DePaul University,0,10,publication_corpora/the-depaulia.txt
+The DePauw,the-depauw,DePauw University,0,10,publication_corpora/the-depauw.txt
+The Decaturian,the-decaturian,Millikin University,0,10,publication_corpora/the-decaturian.txt
+The Defender,the-defender,Saint Michael's College,0,10,publication_corpora/the-defender.txt
+The Delphian,the-delphian,Adelphi University,0,10,publication_corpora/the-delphian.txt
+The Denver Clarion,the-denver-clarion,University of Denver,0,10,publication_corpora/the-denver-clarion.txt
+The Dickinsonian,the-dickinsonian,Dickinson College,0,10,publication_corpora/the-dickinsonian.txt
+The Drew Acorn,the-drew-acorn,Drew University,0,10,publication_corpora/the-drew-acorn.txt
+The Duquesne Duke,the-duquesne-duke,Duquesne University,0,10,publication_corpora/the-duquesne-duke.txt
+The Eagle,the-eagle,Northeast Texas Community College,0,10,publication_corpora/the-eagle.txt
+The Easterner,the-easterner,Eastern Washington University,0,10,publication_corpora/the-easterner.txt
+The Echo of WestConn,the-echo-of-westconn,Western Connecticut State University,0,10,publication_corpora/the-echo-of-westconn.txt
+The Egalitarian,the-egalitarian,Houston City College,0,10,publication_corpora/the-egalitarian.txt
+The Envoy,the-envoy,CUNY Hunter College,0,10,publication_corpora/the-envoy.txt
+The Et Cetera,the-et-cetera,Dallas College-Eastfield,0,10,publication_corpora/the-et-cetera.txt
+The Etownian,the-etownian,Elizabethtown College,0,10,publication_corpora/the-etownian.txt
+The Express,the-express,Las Positas College,0,10,publication_corpora/the-express.txt
+The FAMUAN,the-famuan,Florida Agricultural and Mechanical University,0,10,publication_corpora/the-famuan.txt
+The Fairfield Mirror,the-fairfield-mirror,Fairfield University,0,10,publication_corpora/the-fairfield-mirror.txt
+The Falcon,the-falcon,Seattle Pacific University,0,10,publication_corpora/the-falcon.txt
+The Ferris State Torch,the-ferris-state-torch,Ferris State University,0,10,publication_corpora/the-ferris-state-torch.txt
+The Flagler College Gargoyle,the-flagler-college-gargoyle,Flagler College,0,10,publication_corpora/the-flagler-college-gargoyle.txt
+The Flor-Ala,the-flor-ala,University of North Alabama,0,10,publication_corpora/the-flor-ala.txt
+The Food Fix,the-food-fix,Michigan State University,1,10,publication_corpora/the-food-fix.txt
+The Fordham Ram,the-fordham-ram,Fordham University,0,10,publication_corpora/the-fordham-ram.txt
+The Free Press,the-free-press,University of Southern Maine,0,10,publication_corpora/the-free-press.txt
+The Front Page,the-front-page,Front Range Community College,0,10,publication_corpora/the-front-page.txt
+The GW Hatchet,the-gw-hatchet,George Washington University,0,10,publication_corpora/the-gw-hatchet.txt
+The Gazette,the-gazette,Langston University,0,10,publication_corpora/the-gazette.txt
+The George-Anne Media Group,the-george-anne-media-group,Georgia Southern University,0,10,publication_corpora/the-george-anne-media-group.txt
+The Gleaner,the-gleaner,Rutgers University-Camden,0,10,publication_corpora/the-gleaner.txt
+The Good 5¢ Cigar,the-good-5-cigar,University of Rhode Island,0,10,publication_corpora/the-good-5-cigar.txt
+The Greyhound,the-greyhound,Loyola University Maryland,1,10,publication_corpora/the-greyhound.txt
+The Griffin - Medium,the-griffin-medium,Chestnut Hill College,0,10,publication_corpora/the-griffin-medium.txt
+The Grizzly,the-grizzly,Ursinus College,0,10,publication_corpora/the-grizzly.txt
+The Guidon,the-guidon,Norwich University,0,10,publication_corpora/the-guidon.txt
+The Guilfordian,the-guilfordian,Guilford College,0,10,publication_corpora/the-guilfordian.txt
+The Gustavian Weekly,the-gustavian-weekly,Gustavus Adolphus College,0,10,publication_corpora/the-gustavian-weekly.txt
+The HCC Times,the-hcc-times,Howard Community College,0,10,publication_corpora/the-hcc-times.txt
+The Harbinger,the-harbinger,William Rainey Harper College,0,10,publication_corpora/the-harbinger.txt
+The Hastings College Collegian,the-hastings-college-collegian,Hastings College,0,10,publication_corpora/the-hastings-college-collegian.txt
+The Hawk News,the-hawk-news,Saint Joseph’s University,0,10,publication_corpora/the-hawk-news.txt
+The Hawks’ Herald,the-hawks-herald,Roger Williams University,0,10,publication_corpora/the-hawks-herald.txt
+The Herald - Medium,the-herald-medium,Southern Virginia University,0,10,publication_corpora/the-herald-medium.txt
+The Herald Times,the-herald-times,DROP,,10,publication_corpora/the-herald-times.txt
+The Highlander Newspaper,the-highlander-newspaper,University of California-Riverside,0,10,publication_corpora/the-highlander-newspaper.txt
+The Hofstra Chronicle,the-hofstra-chronicle,Hofstra University,0,10,publication_corpora/the-hofstra-chronicle.txt
+The Hornet,the-hornet,Fullerton College,0,10,publication_corpora/the-hornet.txt
+The Hornet Newspaper,the-hornet-newspaper,DROP,,10,publication_corpora/the-hornet-newspaper.txt
+The Hornet Tribune,the-hornet-tribune,Alabama State University,0,10,publication_corpora/the-hornet-tribune.txt
+The Hudsonian,the-hudsonian,Hudson Valley Community College,0,10,publication_corpora/the-hudsonian.txt
+The Huntington News,the-huntington-news,Northeastern University,0,10,publication_corpora/the-huntington-news.txt
+The Husky Herald,the-husky-herald,University of Washington-Bothell Campus,0,10,publication_corpora/the-husky-herald.txt
+The Hutchinson Collegian,the-hutchinson-collegian,Hutchinson Community College,0,10,publication_corpora/the-hutchinson-collegian.txt
+The Index,the-index,Kalamazoo College,0,10,publication_corpora/the-index.txt
+The Indian Leader,the-indian-leader,Haskell Indian Nations University,0,10,publication_corpora/the-indian-leader.txt
+The Informer,the-informer,University of Hartford,0,10,publication_corpora/the-informer.txt
+The Inquirer,the-inquirer,Diablo Valley College,0,10,publication_corpora/the-inquirer.txt
+The Insider,the-insider,University of Pittsburgh-Greensburg,0,10,publication_corpora/the-insider.txt
+The Ionian,the-ionian,Iona University,0,10,publication_corpora/the-ionian.txt
+The Ithacan,the-ithacan,Ithaca College,0,10,publication_corpora/the-ithacan.txt
+The Jambar,the-jambar,Youngstown State University,0,10,publication_corpora/the-jambar.txt
+The Kenyon Collegian,the-kenyon-collegian,Kenyon College,0,10,publication_corpora/the-kenyon-collegian.txt
+The Kilikilik,the-kilikilik,Heidelberg University,0,10,publication_corpora/the-kilikilik.txt
+The Knight News,the-knight-news,CUNY Queens College,0,10,publication_corpora/the-knight-news.txt
+The Knox Student,the-knox-student,Knox College,0,10,publication_corpora/the-knox-student.txt
+The La Salle Collegian,the-la-salle-collegian,La Salle University,0,10,publication_corpora/the-la-salle-collegian.txt
+The Lafayette,the-lafayette,Lafayette College,0,10,publication_corpora/the-lafayette.txt
+The Lamp,the-lamp,Lincoln Land Community College,0,10,publication_corpora/the-lamp.txt
+The Linfield Review,the-linfield-review,Linfield University,0,10,publication_corpora/the-linfield-review.txt
+The Lion's Roar,the-lion-s-roar,Southeastern Louisiana University,0,10,publication_corpora/the-lion-s-roar.txt
+The Lions' Pride Newspaper,the-lions-pride-newspaper,Saint Leo University,0,10,publication_corpora/the-lions-pride-newspaper.txt
+The Lode,the-lode,Michigan Technological University,0,10,publication_corpora/the-lode.txt
+The Louisville Cardinal,the-louisville-cardinal,University of Louisville,0,10,publication_corpora/the-louisville-cardinal.txt
+The Lutrinae,the-lutrinae,California State University-Monterey Bay,0,10,publication_corpora/the-lutrinae.txt
+The Mac Weekly,the-mac-weekly,Macalester College,0,10,publication_corpora/the-mac-weekly.txt
+The Maine Campus,the-maine-campus,University of Maine,,10,publication_corpora/the-maine-campus.txt
+The Maneater,the-maneater,University of Missouri-Columbia,0,10,publication_corpora/the-maneater.txt
+The Marlin Chronicle,the-marlin-chronicle,Virginia Wesleyan University,0,10,publication_corpora/the-marlin-chronicle.txt
+The Maroon,the-maroon,Loyola University New Orleans,0,10,publication_corpora/the-maroon.txt
+The Mass Media,the-mass-media,University of Massachusetts-Boston,0,10,publication_corpora/the-mass-media.txt
+The Mesa Press,the-mesa-press,San Diego Mesa College,0,10,publication_corpora/the-mesa-press.txt
+The Minnesota Daily,the-minnesota-daily,University of Minnesota-Twin Cities,0,10,publication_corpora/the-minnesota-daily.txt
+The Miscellany News,the-miscellany-news,Vassar College,0,10,publication_corpora/the-miscellany-news.txt
+The Monitor,the-monitor,Marymount Manhattan College,0,10,publication_corpora/the-monitor.txt
+The Montage,the-montage,Saint Louis Community College,0,10,publication_corpora/the-montage.txt
+The Muddraker,the-muddraker,Harvey Mudd College,0,10,publication_corpora/the-muddraker.txt
+The Muhlenberg Weekly,the-muhlenberg-weekly,Muhlenberg College,0,10,publication_corpora/the-muhlenberg-weekly.txt
+The Murray State News,the-murray-state-news,Murray State University,0,10,publication_corpora/the-murray-state-news.txt
+The Mustang Buzz,the-mustang-buzz,Southwest Minnesota State University,0,10,publication_corpora/the-mustang-buzz.txt
+The Navigator,the-navigator,Lake Land College,0,10,publication_corpora/the-navigator.txt
+The Nevada Sagebrush,the-nevada-sagebrush,University of Nevada,0,10,publication_corpora/the-nevada-sagebrush.txt
+The New Courier,the-new-courier,Genesee Community College,0,10,publication_corpora/the-new-courier.txt
+The New Englander eNewspaper,the-new-englander-enewspaper,New England College,0,10,publication_corpora/the-new-englander-enewspaper.txt
+The New Paltz Oracle,the-new-paltz-oracle,State University of New York at New Paltz,0,10,publication_corpora/the-new-paltz-oracle.txt
+The Nittany Pride,the-nittany-pride,Pennsylvania State University-Penn State New Kensington,0,10,publication_corpora/the-nittany-pride.txt
+The North Wind,the-north-wind,Northern Michigan University,0,10,publication_corpora/the-north-wind.txt
+The Nubian Message,the-nubian-message,North Carolina State University,0,10,publication_corpora/the-nubian-message.txt
+The OBU Signal,the-obu-signal,Ouachita Baptist University,0,10,publication_corpora/the-obu-signal.txt
+The Oak Leaf,the-oak-leaf,Santa Rosa Junior College,0,10,publication_corpora/the-oak-leaf.txt
+The Oakland Post,the-oakland-post,Oakland University,0,10,publication_corpora/the-oakland-post.txt
+The Oberlin Review,the-oberlin-review,Oberlin College,0,10,publication_corpora/the-oberlin-review.txt
+The Occidental,the-occidental,Occidental College,0,10,publication_corpora/the-occidental.txt
+The Olaf Messenger,the-olaf-messenger,St Olaf College,0,10,publication_corpora/the-olaf-messenger.txt
+The Optimist,the-optimist,Abilene Christian University,0,10,publication_corpora/the-optimist.txt
+The Orion,the-orion,California State University-Chico,0,10,publication_corpora/the-orion.txt
+The Oswegonian,the-oswegonian,State University of New York at Oswego,0,10,publication_corpora/the-oswegonian.txt
+The Pace Press,the-pace-press,Pace University,0,10,publication_corpora/the-pace-press.txt
+The Paisano,the-paisano,The University of Texas at San Antonio,0,10,publication_corpora/the-paisano.txt
+The Paladin,the-paladin,Furman University,0,10,publication_corpora/the-paladin.txt
+The Parthenon,the-parthenon,Marshall University,0,10,publication_corpora/the-parthenon.txt
+The Patriot Press,the-patriot-press,College of Central Florida,0,10,publication_corpora/the-patriot-press.txt
+The Patriot Talon,the-patriot-talon,The University of Texas at Tyler,0,10,publication_corpora/the-patriot-talon.txt
+The Point News,the-point-news,St. Mary's College of Maryland,0,10,publication_corpora/the-point-news.txt
+The Pointer,the-pointer,University of Wisconsin-Stevens Point,0,10,publication_corpora/the-pointer.txt
+The Poly Post,the-poly-post,California State Polytechnic University-Pomona,0,10,publication_corpora/the-poly-post.txt
+The Prairie News,the-prairie-news,West Texas A & M University,0,10,publication_corpora/the-prairie-news.txt
+The Prodigy,the-prodigy,University of California-Merced,0,10,publication_corpora/the-prodigy.txt
+The Profile,the-profile,Hendrix College,0,10,publication_corpora/the-profile.txt
+The Promethean,the-promethean,University of Wisconsin-Superior,0,10,publication_corpora/the-promethean.txt
+The Prospectus,the-prospectus,Parkland College,0,10,publication_corpora/the-prospectus.txt
+The Purple and White,the-purple-and-white,Millsaps College,0,10,publication_corpora/the-purple-and-white.txt
+The Quadrangle,the-quadrangle,Manhattan University,0,10,publication_corpora/the-quadrangle.txt
+The Quindecim,the-quindecim,Goucher College,0,10,publication_corpora/the-quindecim.txt
+The Quinnipiac Chronicle,the-quinnipiac-chronicle,Quinnipiac University,0,10,publication_corpora/the-quinnipiac-chronicle.txt
+The Racquet Press,the-racquet-press,University of Wisconsin-La Crosse,0,10,publication_corpora/the-racquet-press.txt
+The Ramapo News,the-ramapo-news,Ramapo College of New Jersey,0,10,publication_corpora/the-ramapo-news.txt
+The Rampage,the-rampage,Bluefield University,0,10,publication_corpora/the-rampage.txt
+The Redhawk Post,the-redhawk-post,La Roche University,0,10,publication_corpora/the-redhawk-post.txt
+The Renegade Rip,the-renegade-rip,Bakersfield College,0,10,publication_corpora/the-renegade-rip.txt
+The Retrograde,the-retrograde,The University of Texas at Dallas,0,10,publication_corpora/the-retrograde.txt
+The Rider News,the-rider-news,Rider University,0,10,publication_corpora/the-rider-news.txt
+The Rider Newspaper,the-rider-newspaper,The University of Texas Rio Grande Valley,0,10,publication_corpora/the-rider-newspaper.txt
+The Ring-tum Phi,the-ring-tum-phi,Washington and Lee University,0,10,publication_corpora/the-ring-tum-phi.txt
+The Rocky Mountain Collegian,the-rocky-mountain-collegian,Colorado State University,,10,publication_corpora/the-rocky-mountain-collegian.txt
+The Runner,the-runner,California State University-Bakersfield,0,10,publication_corpora/the-runner.txt
+The Saint,the-saint,Aquinas College,0,10,publication_corpora/the-saint.txt
+The Saint Anselm Crier,the-saint-anselm-crier,Saint Anselm College,0,10,publication_corpora/the-saint-anselm-crier.txt
+The Salemite,the-salemite,Salem College,0,10,publication_corpora/the-salemite.txt
+The Samford Crimson,the-samford-crimson,Samford University,0,10,publication_corpora/the-samford-crimson.txt
+The Sandspur,the-sandspur,Rollins College,0,10,publication_corpora/the-sandspur.txt
+The Scarlet,the-scarlet,Clark University,0,10,publication_corpora/the-scarlet.txt
+The Scarlet & Black,the-scarlet-black,Grinnell College,0,10,publication_corpora/the-scarlet-black.txt
+The Scene,the-scene,Saint Louis Community College-Forest Park,0,10,publication_corpora/the-scene.txt
+The Scribe,the-scribe,University of Colorado Colorado Springs,0,10,publication_corpora/the-scribe.txt
+The Seahawk,the-seahawk,University of North Carolina Wilmington,0,10,publication_corpora/the-seahawk.txt
+The Sentry,the-sentry,University of Colorado Denver,0,10,publication_corpora/the-sentry.txt
+The Shield,the-shield,University of Southern Indiana,0,10,publication_corpora/the-shield.txt
+The Signpost,the-signpost,Weber State University,0,10,publication_corpora/the-signpost.txt
+The Simmons Voice,the-simmons-voice,Simmons University,0,10,publication_corpora/the-simmons-voice.txt
+The Simpsonian,the-simpsonian,Simpson College,0,10,publication_corpora/the-simpsonian.txt
+The Siskiyou,the-siskiyou,Southern Oregon University,0,10,publication_corpora/the-siskiyou.txt
+The Skyline View,the-skyline-view,Skyline College,0,10,publication_corpora/the-skyline-view.txt
+The Snapper,the-snapper,Millersville University of Pennsylvania,0,10,publication_corpora/the-snapper.txt
+The Sojourn,the-sojourn,Indiana Wesleyan University,0,10,publication_corpora/the-sojourn.txt
+The Sounding Board,the-sounding-board,Grace College and Theological Seminary,0,10,publication_corpora/the-sounding-board.txt
+The South Texan,the-south-texan,Texas A & M University-Kingsville,,10,publication_corpora/the-south-texan.txt
+The Southern Newspaper,the-southern-newspaper,Florida Southern College,0,10,publication_corpora/the-southern-newspaper.txt
+The Spectrum Newspaper,the-spectrum-newspaper,Sacred Heart University,0,10,publication_corpora/the-spectrum-newspaper.txt
+The Spire,the-spire,College of the Holy Cross,0,10,publication_corpora/the-spire.txt
+The Spokesman,the-spokesman,Morgan State University,0,10,publication_corpora/the-spokesman.txt
+The SpringHillian,the-springhillian,Spring Hill College,0,10,publication_corpora/the-springhillian.txt
+The Squawk,the-squawk,Cecil College,0,10,publication_corpora/the-squawk.txt
+The State Hornet,the-state-hornet,California State University-Sacramento,0,10,publication_corpora/the-state-hornet.txt
+The State Times,the-state-times,SUNY Oneonta,0,10,publication_corpora/the-state-times.txt
+The Statesman,the-statesman,Stony Brook University,0,10,publication_corpora/the-statesman.txt
+The Statesmen Status,the-statesmen-status,William Penn University,0,10,publication_corpora/the-statesmen-status.txt
+The Student Life,the-student-life,The Claremont Colleges,0,10,publication_corpora/the-student-life.txt
+The Stylus,the-stylus,SUNY Brockport,0,10,publication_corpora/the-stylus.txt
+The Suffolk Journal,the-suffolk-journal,Suffolk University,0,10,publication_corpora/the-suffolk-journal.txt
+The Sundial,the-sundial,Suffolk University,0,10,publication_corpora/the-sundial.txt
+The Syrinx - Medium,the-syrinx-medium,Fresno Pacific University,0,10,publication_corpora/the-syrinx-medium.txt
+The TCC Connection,the-tcc-connection,Tulsa Community College,0,10,publication_corpora/the-tcc-connection.txt
+The Tack Online,the-tack-online,Buena Vista University,0,10,publication_corpora/the-tack-online.txt
+The Tacoma Ledger,the-tacoma-ledger,University of Washington-Tacoma Campus,0,10,publication_corpora/the-tacoma-ledger.txt
+The Tangerine,the-tangerine,Utica University,0,10,publication_corpora/the-tangerine.txt
+The Tartan,the-tartan,Carnegie Mellon University,0,10,publication_corpora/the-tartan.txt
+The Ticker,the-ticker,CUNY Bernard M Baruch College,0,10,publication_corpora/the-ticker.txt
+The Tiger,the-tiger,Clemson University,0,10,publication_corpora/the-tiger.txt
+The Times-Delphic,the-times-delphic,Drake University,0,10,publication_corpora/the-times-delphic.txt
+The Trailblazer,the-trailblazer,Vincennes University,0,10,publication_corpora/the-trailblazer.txt
+The Transcript,the-transcript,Ohio Wesleyan University,0,10,publication_corpora/the-transcript.txt
+The Triton Review,the-triton-review,Edmonds College,0,10,publication_corpora/the-triton-review.txt
+The Trojan Times,the-trojan-times,Dakota State University,0,10,publication_corpora/the-trojan-times.txt
+The Trumpet,the-trumpet,West Liberty University,0,10,publication_corpora/the-trumpet.txt
+The Tulane Hullabaloo,the-tulane-hullabaloo,Tulane University of Louisiana,0,10,publication_corpora/the-tulane-hullabaloo.txt
+The UPTOWN EXCHANGE,the-uptown-exchange,City Colleges of Chicago-Harry S Truman College,0,10,publication_corpora/the-uptown-exchange.txt
+The USD Vista,the-usd-vista,University of San Diego,0,10,publication_corpora/the-usd-vista.txt
+The University News,the-university-news,Saint Louis University,0,10,publication_corpora/the-university-news.txt
+The University Star,the-university-star,Texas State University,0,10,publication_corpora/the-university-star.txt
+The Uproar,the-uproar,Columbus State University,0,10,publication_corpora/the-uproar.txt
+The Vanderbilt Hustler,the-vanderbilt-hustler,Vanderbilt University,0,10,publication_corpora/the-vanderbilt-hustler.txt
+The Vanguard Voice,the-vanguard-voice,Vanguard University of Southern California,0,10,publication_corpora/the-vanguard-voice.txt
+The Vector,the-vector,New Jersey Institute of Technology,0,10,publication_corpora/the-vector.txt
+The Vermilion,the-vermilion,University of Louisiana at Lafayette,0,10,publication_corpora/the-vermilion.txt
+The Vermont Cynic,the-vermont-cynic,University of Vermont,0,10,publication_corpora/the-vermont-cynic.txt
+The Villanovan,the-villanovan,Villanova University,0,10,publication_corpora/the-villanovan.txt
+The Virginia Statesman,the-virginia-statesman,Virginia State University,0,10,publication_corpora/the-virginia-statesman.txt
+The Vision Online,the-vision-online,North Greenville University,0,10,publication_corpora/the-vision-online.txt
+The Volante,the-volante,University of South Dakota,0,10,publication_corpora/the-volante.txt
+The Volunteer,the-volunteer,John A Logan College,0,10,publication_corpora/the-volunteer.txt
+The Voyager,the-voyager,The University of West Florida,0,10,publication_corpora/the-voyager.txt
+The Waltonian,the-waltonian,Eastern University,0,10,publication_corpora/the-waltonian.txt
+The Washburn Review,the-washburn-review,Washburn University,0,10,publication_corpora/the-washburn-review.txt
+The Weather Vane,the-weather-vane,Eastern Mennonite University,0,10,publication_corpora/the-weather-vane.txt
+The Wellesley News,the-wellesley-news,Wellesley College,0,10,publication_corpora/the-wellesley-news.txt
+The Wesleyan Argus,the-wesleyan-argus,Wesleyan University,0,10,publication_corpora/the-wesleyan-argus.txt
+The West Georgian,the-west-georgian,University of West Georgia,0,10,publication_corpora/the-west-georgian.txt
+The Western Carolinian,the-western-carolinian,Western Carolina University,1,10,publication_corpora/the-western-carolinian.txt
+The Westerner,the-westerner,Western New England University,0,10,publication_corpora/the-westerner.txt
+The Westfield Voice,the-westfield-voice,Westfield State University,0,10,publication_corpora/the-westfield-voice.txt
+The Wheaton Record,the-wheaton-record,Wheaton College (Massachusetts),0,10,publication_corpora/the-wheaton-record.txt
+The Whit,the-whit,Rowan University,0,10,publication_corpora/the-whit.txt
+The Wichitan,the-wichitan,Midwestern State University,0,10,publication_corpora/the-wichitan.txt
+The Williams Record,the-williams-record,Williams College,0,10,publication_corpora/the-williams-record.txt
+The Wilson Billboard,the-wilson-billboard,Wilson College,0,10,publication_corpora/the-wilson-billboard.txt
+The Winonan,the-winonan,Winona State University,0,10,publication_corpora/the-winonan.txt
+The Witmarsum,the-witmarsum,Bluffton University,0,10,publication_corpora/the-witmarsum.txt
+The Xavier Herald,the-xavier-herald,Xavier University of Louisiana,0,10,publication_corpora/the-xavier-herald.txt
+The Yellow Jacket,the-yellow-jacket,Randolph-Macon College,0,10,publication_corpora/the-yellow-jacket.txt
+Thorobred News,thorobred-news,Kentucky State University,0,10,publication_corpora/thorobred-news.txt
+Threefold Advocate - JBU Student Newspaper,threefold-advocate-jbu-student-newspaper,John Brown University,0,10,publication_corpora/threefold-advocate-jbu-student-newspaper.txt
+Thunderword,thunderword,Highline College,0,10,publication_corpora/thunderword.txt
+Tiger Media Network,tiger-media-network,Fort Hays State University,0,10,publication_corpora/tiger-media-network.txt
+Top o’ The World,top-o-the-world,Western Colorado University,0,10,publication_corpora/top-o-the-world.txt
+TrevEchoes Online,trevechoes-online,Trevecca Nazarene University,0,10,publication_corpora/trevechoes-online.txt
+Trinitonian,trinitonian,Trinity University,0,10,publication_corpora/trinitonian.txt
+Trinity Tripod,trinity-tripod,Trinity College,0,10,publication_corpora/trinity-tripod.txt
+Troubadour,troubadour,Saint Francis University,0,10,publication_corpora/troubadour.txt
+UH Beat Archives - Honolulu Civil Beat,uh-beat-archives-honolulu-civil-beat,University of Hawaii,0,10,publication_corpora/uh-beat-archives-honolulu-civil-beat.txt
+UNF Spinnaker,unf-spinnaker,University of North Florida,0,10,publication_corpora/unf-spinnaker.txt
+UNLV Scarlet and Gray,unlv-scarlet-and-gray,University of Nevada-Las Vegas,0,10,publication_corpora/unlv-scarlet-and-gray.txt
+UO Catalyst Journalism Project,uo-catalyst-journalism-project,University of Oregon,1,10,publication_corpora/uo-catalyst-journalism-project.txt
+UVU REVIEW,uvu-review,Utah Valley University,0,10,publication_corpora/uvu-review.txt
+UWM Post,uwm-post,University of Wisconsin-Milwaukee,0,10,publication_corpora/uwm-post.txt
+University of Detroit Mercy (VN),university-of-detroit-mercy-vn,University of Detroit Mercy,0,10,publication_corpora/university-of-detroit-mercy-vn.txt
+Urban Community Journalism Class Blog,urban-community-journalism-class-blog,Clark University,1,10,publication_corpora/urban-community-journalism-class-blog.txt
+Valencia Voice,valencia-voice,Valencia College,0,10,publication_corpora/valencia-voice.txt
+Vanguard,vanguard,University of North Georgia,0,10,publication_corpora/vanguard.txt
+Viewfinder Media,viewfinder-media,Grand View University,0,10,publication_corpora/viewfinder-media.txt
+Viewpoints,viewpoints,Riverside City College,0,10,publication_corpora/viewpoints.txt
+Viking Fusion,viking-fusion,Berry College,0,10,publication_corpora/viking-fusion.txt
+WHALESONG,whalesong,University of Alaska Southeast,0,10,publication_corpora/whalesong.txt
+WPI Tech News,wpi-tech-news,Worcester Polytechnic Institute,0,10,publication_corpora/wpi-tech-news.txt
+Warhawk News,warhawk-news,John C Calhoun State Community College,0,10,publication_corpora/warhawk-news.txt
+West Texas Tribune,west-texas-tribune,DROP,,10,publication_corpora/west-texas-tribune.txt
+Western Oregon University,western-oregon-university,Western Oregon University,0,10,publication_corpora/western-oregon-university.txt
+Whetstone,whetstone,Wesley College,0,10,publication_corpora/whetstone.txt
+Whitman Wire,whitman-wire,Whitman College,0,10,publication_corpora/whitman-wire.txt
+Wildcat Wire,wildcat-wire,Culver-Stockton College,0,10,publication_corpora/wildcat-wire.txt
+dailytitan.com - RSS Results,dailytitan-com-rss-results,California State University-Fullerton,0,10,publication_corpora/dailytitan-com-rss-results.txt
+eCorsair,ecorsair,Pensacola State College,0,10,publication_corpora/ecorsair.txt
+el Don News,el-don-news,Santa Ana College,0,10,publication_corpora/el-don-news.txt
+http://www.cccvoice.com/feed/,http-www-cccvoice-com-feed,Cuyahoga Community College District,0,10,publication_corpora/http-www-cccvoice-com-feed.txt
+https://bonfire.digital.uic.edu/feed/,https-bonfire-digital-uic-edu-feed,University of Illinois Chicago,0,10,publication_corpora/https-bonfire-digital-uic-edu-feed.txt
+https://cuatower.com/feed/,https-cuatower-com-feed,The Catholic University of America,0,10,publication_corpora/https-cuatower-com-feed.txt
+https://fulcrumnewspaper.wpcomstaging.com/feed/,https-fulcrumnewspaper-wpcomstaging-com-feed,SUNY Broome Community College,0,10,publication_corpora/https-fulcrumnewspaper-wpcomstaging-com-feed.txt
+https://lcctorch.com/feed/,https-lcctorch-com-feed,Lane Community College,0,10,publication_corpora/https-lcctorch-com-feed.txt
+https://rutgersobserver.wordpress.com/feed/,https-rutgersobserver-wordpress-com-feed,Rutgers University-Newark,0,10,publication_corpora/https-rutgersobserver-wordpress-com-feed.txt
+https://setonianonline.com/feed/,https-setonianonline-com-feed,Seton Hill University,0,10,publication_corpora/https-setonianonline-com-feed.txt
+https://statementmga.wpcomstaging.com/feed/,https-statementmga-wpcomstaging-com-feed,Middle Georgia State University,0,10,publication_corpora/https-statementmga-wpcomstaging-com-feed.txt
+https://stocktonargo.com/feed/,https-stocktonargo-com-feed,Stockton University,0,10,publication_corpora/https-stocktonargo-com-feed.txt
+https://supicket.com/feed/,https-supicket-com-feed,Shepherd University,0,10,publication_corpora/https-supicket-com-feed.txt
+https://tartan.gordon.edu/feed/,https-tartan-gordon-edu-feed,Gordon College,0,10,publication_corpora/https-tartan-gordon-edu-feed.txt
+https://thecritograph.com/feed/,https-thecritograph-com-feed,University of Lynchburg,0,10,publication_corpora/https-thecritograph-com-feed.txt
+https://themetropolitan.metrostate.edu/feed/,https-themetropolitan-metrostate-edu-feed,Metropolitan State University,0,10,publication_corpora/https-themetropolitan-metrostate-edu-feed.txt
+https://theminaretonline.org/feed/,https-theminaretonline-org-feed,The University of Tampa,0,10,publication_corpora/https-theminaretonline-org-feed.txt
+https://theredlandsbulldog.com/index.php/feed/,https-theredlandsbulldog-com-index-php-feed,University of Redlands,0,10,publication_corpora/https-theredlandsbulldog-com-index-php-feed.txt
+https://thesewaneepurple.org/feed/,https-thesewaneepurple-org-feed,The University of the South,0,10,publication_corpora/https-thesewaneepurple-org-feed.txt
+https://thestroudcourier.com/feed/,https-thestroudcourier-com-feed,East Stroudsburg University of Pennsylvania,0,10,publication_corpora/https-thestroudcourier-com-feed.txt
+https://thetowerlight.com/feed/,https-thetowerlight-com-feed,Towson University,0,10,publication_corpora/https-thetowerlight-com-feed.txt
+https://thevalleyvanguard.com/feed/,https-thevalleyvanguard-com-feed,Saginaw Valley State University,0,10,publication_corpora/https-thevalleyvanguard-com-feed.txt
+https://troubonline.com/feed/,https-troubonline-com-feed,Franciscan University of Steubenville,0,10,publication_corpora/https-troubonline-com-feed.txt
+https://www.fsuthevoice.com/feed/,https-www-fsuthevoice-com-feed,Fayetteville State University,0,10,publication_corpora/https-www-fsuthevoice-com-feed.txt
+https://www.marcolian.com/?feed=rss2,https-www-marcolian-com-feed-rss2,Marietta College,0,10,publication_corpora/https-www-marcolian-com-feed-rss2.txt
+https://www.rvcvalleyforge.com/index.php/feed/,https-www-rvcvalleyforge-com-index-php-feed,Rock Valley College,0,10,publication_corpora/https-www-rvcvalleyforge-com-index-php-feed.txt
+https://www.thecbctower.com/feed/,https-www-thecbctower-com-feed,Central Baptist College,0,10,publication_corpora/https-www-thecbctower-com-feed.txt
+https://yorkpbnews.net/feed/,https-yorkpbnews-net-feed,CUNY York College,0,10,publication_corpora/https-yorkpbnews-net-feed.txt
+iPulse News,ipulse-news,Lynn University,0,10,publication_corpora/ipulse-news.txt
+Kent State NewsLab,,Kent State University,1,10,publication_corpora/nan.txt
+,,DROP,,10,publication_corpora/nan.txt
+the Tartan,the-tartan-2,Radford University,0,10,publication_corpora/the-tartan-2.txt
+the advocate,the-advocate,Montgomery College,0,10,publication_corpora/the-advocate.txt
+the nicholls worth,the-nicholls-worth,Nicholls State University,0,10,publication_corpora/the-nicholls-worth.txt
+www.dailycal.org - RSS Results,www-dailycal-org-rss-results,University of California-Berkeley,0,10,publication_corpora/www-dailycal-org-rss-results.txt
+www.ntdaily.com - RSS Results,www-ntdaily-com-rss-results,University of North Texas,0,10,publication_corpora/www-ntdaily-com-rss-results.txt
+www.uatrav.com - RSS Results,www-uatrav-com-rss-results,University of Arkansas,0,10,publication_corpora/www-uatrav-com-rss-results.txt
+www.videtteonline.com - RSS Results,www-videtteonline-com-rss-results,Illinois State University,0,10,publication_corpora/www-videtteonline-com-rss-results.txt
+| Urban Vibe,urban-vibe,Des Moines Area Community College,0,10,publication_corpora/urban-vibe.txt
+Austin College Magazine,austin-college-magazine,Austin College,0,9,publication_corpora/austin-college-magazine.txt
+Crowder Sentry,crowder-sentry,Crowder College,0,9,publication_corpora/crowder-sentry.txt
+KWUStudentMedia,kwustudentmedia,Kansas Wesleyan University,0,9,publication_corpora/kwustudentmedia.txt
+The Spectrum,the-spectrum,Bowie State University,0,9,publication_corpora/the-spectrum.txt
+USJ News Nest,usj-news-nest,University of Saint Joseph,0,9,publication_corpora/usj-news-nest.txt
+University Chronicle,university-chronicle,Saint Cloud State University,0,9,publication_corpora/university-chronicle.txt
+https://www.ccclarion.com/feed/,https-www-ccclarion-com-feed,Citrus College,0,9,publication_corpora/https-www-ccclarion-com-feed.txt
+News – Viking Fusion,news-viking-fusion,Berry College,0,8,publication_corpora/news-viking-fusion.txt
+Talon News,talon-news,Oklahoma Christian University,0,8,publication_corpora/talon-news.txt
+The Banner Newspaper,the-banner-newspaper,College of Staten Island CUNY,0,8,publication_corpora/the-banner-newspaper.txt
+The Montclarion,the-montclarion,Montclair State University,0,8,publication_corpora/the-montclarion.txt
+The Purdue Exponent,the-purdue-exponent,Purdue University-Main Campus,0,8,publication_corpora/the-purdue-exponent.txt
+The Retriever,the-retriever,University of Maryland-Baltimore County,0,8,publication_corpora/the-retriever.txt
+www.nebraskanewsservice.net - RSS Results,www-nebraskanewsservice-net-rss-results,University of Nebraska-Lincoln,1,8,publication_corpora/www-nebraskanewsservice-net-rss-results.txt
+Cardinal & Cream,cardinal-cream,Union University,0,7,publication_corpora/cardinal-cream.txt
+Earlham Word,earlham-word,Earlham College,0,7,publication_corpora/earlham-word.txt
+Moraine Valley Community College,moraine-valley-community-college,Moraine Valley Community College,0,7,publication_corpora/moraine-valley-community-college.txt
+News – Davidsonian,news-davidsonian,Davidson College,0,7,publication_corpora/news-davidsonian.txt
+News – Lindenlink,news-lindenlink,Lindenwood University,0,7,publication_corpora/news-lindenlink.txt
+Northwestern News,northwestern-news,Northwestern Oklahoma State University,0,7,publication_corpora/northwestern-news.txt
+The Utah Statesman,the-utah-statesman,Utah State University,0,7,publication_corpora/the-utah-statesman.txt
+www.columbiamissourian.com - RSS Results of type article with keyword(s) of #topstory,www-columbiamissourian-com-rss-results-of-type-article-with-keyword-s-of-topstory,University of Missouri-Columbia,1,7,publication_corpora/www-columbiamissourian-com-rss-results-of-type-article-with-keyword-s-of-topstory.txt
+www.msuexponent.com - RSS Results,www-msuexponent-com-rss-results,Montana State University,0,7,publication_corpora/www-msuexponent-com-rss-results.txt
+News & Features – The Gleaner,news-features-the-gleaner,Rutgers University-Camden,0,6,publication_corpora/news-features-the-gleaner.txt
+News – The Tacoma Ledger,news-the-tacoma-ledger,University of Washington-Tacoma Campus,0,6,publication_corpora/news-the-tacoma-ledger.txt
+The Oklahoma Daily,the-oklahoma-daily,University of Oklahoma,0,6,publication_corpora/the-oklahoma-daily.txt
+The Round Table,the-round-table,Beloit College,0,6,publication_corpora/the-round-table.txt
+Webster Journal,webster-journal,Webster University,0,6,publication_corpora/webster-journal.txt
+Luther College Chips,luther-college-chips,Luther College,0,5,publication_corpora/luther-college-chips.txt
+The Colby Echo,the-colby-echo,Colby College,0,5,publication_corpora/the-colby-echo.txt
+The Commuter,the-commuter,Linn-Benton Community College,0,5,publication_corpora/the-commuter.txt
+The Hilltop,the-hilltop,Howard University,0,5,publication_corpora/the-hilltop.txt
+The New School Free Press,the-new-school-free-press,The New School,0,5,publication_corpora/the-new-school-free-press.txt
+The Pacer,the-pacer,The University of Tennessee-Martin,0,5,publication_corpora/the-pacer.txt
+The Pioneer Press,the-pioneer-press,Volunteer State Community College,0,5,publication_corpora/the-pioneer-press.txt
+The Reporter: The Student Newspaper at Miami Dade College,the-reporter-the-student-newspaper-at-miami-dade-college,Miami Dade College,,5,publication_corpora/the-reporter-the-student-newspaper-at-miami-dade-college.txt
+The Scroll,the-scroll,Bethany Lutheran College,0,5,publication_corpora/the-scroll.txt
+The Springfield Student,the-springfield-student,Springfield College,0,5,publication_corpora/the-springfield-student.txt
+Home,home,Brigham Young University,0,4,publication_corpora/home.txt
+Mount Mercy Times,mount-mercy-times,Mount Mercy University,0,4,publication_corpora/mount-mercy-times.txt
+News – GWU-Today,news-gwu-today,Gardner-Webb University,0,4,publication_corpora/news-gwu-today.txt
+The Advocate Online,the-advocate-online,Mt Hood Community College,0,4,publication_corpora/the-advocate-online.txt
+The Blue and Grey,the-blue-and-grey,Hood College,0,4,publication_corpora/the-blue-and-grey.txt
+The Daily Nebraskan,the-daily-nebraskan,University of Nebraska-Lincoln,0,4,publication_corpora/the-daily-nebraskan.txt
+The Hilltop Monitor,the-hilltop-monitor,William Jewel College,0,4,publication_corpora/the-hilltop-monitor.txt
+Kansas State Collegian,kansas-state-collegian,Kansas State University,0,3,publication_corpora/kansas-state-collegian.txt
+The Commonwealth Times,the-commonwealth-times,Virginia Commonwealth University,0,3,publication_corpora/the-commonwealth-times.txt
+The Lasso,the-lasso,Texas Woman's University,0,3,publication_corpora/the-lasso.txt
+the Stentor,the-stentor,Lake Forest College,0,3,publication_corpora/the-stentor.txt
+The Insight,the-insight,Daemen University,0,2,publication_corpora/the-insight.txt
+The Rocket,the-rocket,Slippery Rock University of Pennsylvania,0,2,publication_corpora/the-rocket.txt
+uwrfvoice.com,uwrfvoice-com,University of Wisconsin-River Falls,0,2,publication_corpora/uwrfvoice-com.txt
+Almagest at LSUS,almagest-at-lsus,Louisiana State University Health Sciences Center-Shreveport,0,1,publication_corpora/almagest-at-lsus.txt
+Comments on: Front Page,comments-on-front-page,Louisiana State University Health Sciences Center-Shreveport,0,1,publication_corpora/comments-on-front-page.txt
+Florida Atlantic U. News,florida-atlantic-u-news,Florida Atlantic University,0,1,publication_corpora/florida-atlantic-u-news.txt
+NJ STATE HOUSE NEWS SERVICE,nj-state-house-news-service,Multi,,1,publication_corpora/nj-state-house-news-service.txt
+Stories,stories,University of Lynchburg,0,1,publication_corpora/stories.txt
+THE TOWER,the-tower,Kean University,0,1,publication_corpora/the-tower.txt
+The Collegian Reporter,the-collegian-reporter,Morningside University,0,1,publication_corpora/the-collegian-reporter.txt
