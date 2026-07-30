@@ -1,6 +1,6 @@
 # SOCKS-2026-News
 
-This repository contains the code used for my research project conducted over the 2026 Summer through the VT EPSCoR SOCKS Internship in collaboration with UVM’s Center for Community News (CCN). The available datasets are also provided, however some belong to the CCN and cannot be shared by me. A description of the paper written as the deliverable for this research is attached below and the paper is in the repository.
+This repository contains the code used for my research project conducted over the 2026 Summer through the VT EPSCoR SOCKS Internship in collaboration with UVM’s Center for Community News (CCN). The available datasets are also provided, however some were provided by Ben Cooley and belong to the CCN so cannot be shared by me. A description of the paper written as the deliverable for this research is attached below and the paper is in the repository.
 
 **Title:** ***Can College Newspapers Save the Day?** A topic model analysis of critical information and community cohesion.* 
 
